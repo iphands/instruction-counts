@@ -1,0 +1,10936 @@
+
+Working on /usr/bin/abrt-action-analyze-backtrace
+SSE:11
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-analyze-c
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-analyze-java
+SSE:5
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-analyze-oops
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-analyze-python
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-analyze-xorg
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-generate-backtrace
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-generate-core-backtrace
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/[
+SSE:20
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ab
+SSE:4
+SSE2:116
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-trim-files
+SSE:3
+SSE2:23
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-action-save-package-data
+SSE:6
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-bodhi
+SSE:11
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-dump-journal-core
+SSE:13
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-applet
+SSE:3
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-dump-journal-oops
+SSE:12
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-dump-journal-xorg
+SSE:13
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-dump-oops
+SSE:9
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-dump-xorg
+SSE:8
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-merge-pstoreoops
+SSE:5
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-watch-log
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/acyclic
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ac
+SSE:15
+SSE2:28
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/abrt-retrace-client
+SSE:23
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/anthy-dic-tool-unicode
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/anthy-morphological-analyzer-unicode
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/anthy-agent-unicode
+SSE:4
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/arpaname
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/appstream-compose
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/attr
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aulast
+SSE:8
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aulastlog
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ausyscall
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/arch
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/authselect
+SSE:43
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/auvirt
+SSE:14
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/b43-fwcutter
+SSE:6
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/applydeltarpm
+SSE:67
+SSE2:49
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/b2sum
+SSE:59
+SSE2:30
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/base32
+SSE:19
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/base64
+SSE:19
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/basename
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bcomps
+SSE:3
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/airscan-discover
+SSE:357
+SSE2:220
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/appstream-util
+SSE:26
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/basenc
+SSE:19
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bc
+SSE:70
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/antiword.bin
+SSE:220
+SSE2:191
+SSE3:0
+SSSE3:0
+SSE4:5
+AVX:0
+
+Working on /usr/bin/baobab
+SSE:284
+SSE2:488
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bzip2recover
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/canberra-boot
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/boltctl
+SSE:43
+SSE2:31
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-atb
+SSE:146
+SSE2:35
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/canberra-gtk-play
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bzip2
+SSE:5
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bwrap
+SSE:43
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-cldr
+SSE:137
+SSE2:33
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cal
+SSE:32
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cardos-tool
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cat
+SSE:22
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-iccdump
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-clip
+SSE:140
+SSE2:33
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-fix-profile
+SSE:4
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/catman
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-it8
+SSE:5
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-trtxt
+SSE:153
+SSE2:42
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-morse
+SSE:212
+SSE2:46
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-create-profile
+SSE:15
+SSE2:34
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-hid
+SSE:177
+SSE2:36
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ccomps
+SSE:7
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-info
+SSE:13
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-read
+SSE:9
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-lsinc
+SSE:140
+SSE2:35
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chacl
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-drive
+SSE:10
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/checksctp
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cdda-player
+SSE:16
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-lscmds
+SSE:137
+SSE2:33
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chattr
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cd-paranoia
+SSE:105
+SSE2:83
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chcon
+SSE:136
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-ctb
+SSE:175
+SSE2:51
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chmem
+SSE:48
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-ttb
+SSE:156
+SSE2:42
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/choom
+SSE:34
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cifscreds
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chmod
+SSE:135
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chrt
+SSE:31
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-tune
+SSE:219
+SSE2:52
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cheese
+SSE:114
+SSE2:114
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/col
+SSE:14
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chgrp
+SSE:136
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chown
+SSE:137
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chvt
+SSE:18
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cisco-decrypt
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/clear
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/colrm
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cluster
+SSE:15
+SSE2:213
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty-ktb
+SSE:352
+SSE2:152
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cmp
+SSE:24
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/column
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/colcrt
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cksum
+SSE:65
+SSE2:41
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/compsize
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/colormgr
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/comm
+SSE:35
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cryptoflex-tool
+SSE:7
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/combinedeltarpm
+SSE:57
+SSE2:21
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cut
+SSE:20
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cups-calibrate
+SSE:372
+SSE2:71
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dazzle-list-counters
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/csplit
+SSE:35
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cp
+SSE:476
+SSE2:94
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/deallocvt
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/date
+SSE:122
+SSE2:77
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cpio
+SSE:180
+SSE2:79
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/diffimg
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dconf
+SSE:32
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/delv
+SSE:45
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dijkstra
+SSE:2
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dc
+SSE:42
+SSE2:23
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/desktop-file-validate
+SSE:35
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-binding-tool
+SSE:91
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dirmngr-client
+SSE:67
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/checkmodule
+SSE:383
+SSE2:51
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/desktop-file-install
+SSE:52
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dnie-tool
+SSE:4
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/df
+SSE:135
+SSE2:72
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dircolors
+SSE:21
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cvtsudoers
+SSE:195
+SSE2:144
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dd
+SSE:60
+SSE2:36
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dirname
+SSE:15
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-broker-launch
+SSE:157
+SSE2:73
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/diff3
+SSE:41
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dot
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/diff
+SSE:157
+SSE2:62
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dmesg
+SSE:62
+SSE2:55
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/echo
+SSE:15
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dnstap-read
+SSE:9
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-broker
+SSE:286
+SSE2:120
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dig
+SSE:168
+SSE2:34
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dos2unix
+SSE:4
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dotlockfile
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/checkpolicy
+SSE:385
+SSE2:51
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dir
+SSE:146
+SSE2:60
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dumpkeys
+SSE:27
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eidenv
+SSE:21
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/brltty
+SSE:848
+SSE2:404
+SSE3:0
+SSSE3:0
+SSE4:1
+AVX:0
+
+Working on /usr/bin/egk-tool
+SSE:6
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/du
+SSE:139
+SSE2:38
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/enchant
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eject
+SSE:62
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ebrowse
+SSE:7
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/edgepaint
+SSE:27
+SSE2:680
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/emacsclient
+SSE:12
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/enchant-2
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/enchant-lsmod
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/envsubst
+SSE:4
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/enchant-lsmod-2
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eog
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/espeak-ng
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/env
+SSE:19
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eutp
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/evmctl
+SSE:7
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/exempi
+SSE:7
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/expand
+SSE:20
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fallocate
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/expr
+SSE:20
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fgconsole
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/escputil
+SSE:329
+SSE2:71
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/file
+SSE:32
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/false
+SSE:15
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eqn
+SSE:87
+SSE2:35
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/etags.emacs
+SSE:49
+SSE2:42
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fincore
+SSE:10
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fluxbox-remote
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/file2brl
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/factor
+SSE:22
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/flock
+SSE:4
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fbsetroot
+SSE:64
+SSE2:106
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fold
+SSE:19
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dirmngr
+SSE:460
+SSE2:282
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/exiv2
+SSE:125
+SSE2:41
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fprintd-enroll
+SSE:25
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fbrun
+SSE:63
+SSE2:47
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/findmnt
+SSE:42
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fribidi
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fmt
+SSE:25
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fprintd-list
+SSE:25
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/funzip
+SSE:30
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/flexiblas
+SSE:51
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fprintd-delete
+SSE:27
+SSE2:21
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gamemode-simulate-game
+SSE:35
+SSE2:35
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fluxbox-update_configs
+SSE:139
+SSE2:115
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fusermount3
+SSE:18
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fprintd-verify
+SSE:26
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fusermount
+SSE:14
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gapplication
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gc
+SSE:4
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcm-import
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fuse2fs
+SSE:13
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcm-inspect
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcr-viewer
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/find
+SSE:506
+SSE2:216
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gdk-pixbuf-query-loaders-32
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/g13
+SSE:78
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcm-picker
+SSE:2
+SSE2:28
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gdbus
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gamemoded
+SSE:863
+SSE2:747
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gdk-pixbuf-query-loaders-64
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gdk-pixbuf-thumbnailer
+SSE:0
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gdm-screenshot
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcm-viewer
+SSE:99
+SSE2:465
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gdmflexiserver
+SSE:4
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getfacl
+SSE:6
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/genl-ctrl-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gctags
+SSE:51
+SSE2:46
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getcifsacl
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gethostip
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getkeycodes
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getfattr
+SSE:6
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gettext
+SSE:4
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ges-launch-1.0
+SSE:32
+SSE2:32
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gids-tool
+SSE:8
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gio-querymodules-32
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gio-querymodules-64
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getopt
+SSE:3
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gjs-console
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gkbd-keyboard-display
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/glxinfo64
+SSE:19
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/glxgears
+SSE:248
+SSE2:201
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcalccmd
+SSE:80
+SSE2:71
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/glib-compile-schemas
+SSE:25
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/glxinfo
+SSE:19
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gio
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gml2gv
+SSE:5
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-font-viewer
+SSE:14
+SSE2:110
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-disk-image-mounter
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-keyring-3
+SSE:9
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-session-quit
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-session-inhibit
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-thumbnail-font
+SSE:8
+SSE2:30
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-terminal
+SSE:29
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/goid-tool
+SSE:48
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-logs
+SSE:19
+SSE2:23
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpg-error
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-clocks
+SSE:66
+SSE2:247
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpgme-json
+SSE:29
+SSE2:105
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpg-connect-agent
+SSE:62
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpgconf
+SSE:71
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpgparsemail
+SSE:18
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpgsplit
+SSE:8
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpg-wks-server
+SSE:74
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpg-wks-client
+SSE:98
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpg-card
+SSE:147
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-disks
+SSE:45
+SSE2:866
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/graphml2gv
+SSE:3
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gr2fonttest
+SSE:18
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpgtar
+SSE:42
+SSE2:47
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpg-agent
+SSE:222
+SSE2:97
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grl-inspect-0.3
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grilo-test-ui-0.3
+SSE:6
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-calendar
+SSE:189
+SSE2:474
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-system-monitor
+SSE:432
+SSE2:652
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grl-launch-0.3
+SSE:0
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/groff
+SSE:33
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-contacts
+SSE:412
+SSE2:418
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gsettings
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gsf-office-thumbnailer
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gsound-play
+SSE:3
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gawk
+SSE:778
+SSE2:1241
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ctags
+SSE:1723
+SSE2:730
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grotty
+SSE:51
+SSE2:95
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/groups
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gst-typefind-1.0
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grep
+SSE:233
+SSE2:81
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gst-stats-1.0
+SSE:12
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gst-transcoder-1.0
+SSE:41
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk-query-immodules-2.0-64
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-calculator
+SSE:1022
+SSE2:522
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gst-launch-1.0
+SSE:17
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gts2dxf
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gst-inspect-1.0
+SSE:21
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk-query-immodules-2.0-32
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-text-editor
+SSE:307
+SSE2:346
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grops
+SSE:64
+SSE2:183
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtscheck
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gts2stl
+SSE:0
+SSE2:15
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gts2xyz
+SSE:3
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gts2oogl
+SSE:13
+SSE2:164
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpgv
+SSE:210
+SSE2:79
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtscompare
+SSE:15
+SSE2:154
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/guile2.2
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtshapprox
+SSE:2
+SSE2:177
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtstransform
+SSE:4
+SSE2:38
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gupnp-dlna-info-2.0
+SSE:6
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtsdelaunay
+SSE:2
+SSE2:50
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gupnp-dlna-ls-profiles-2.0
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gvcolor
+SSE:3
+SSE2:42
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fluxbox
+SSE:1156
+SSE2:1054
+SSE3:0
+SSSE3:0
+SSE4:2
+AVX:0
+
+Working on /usr/bin/gvgen
+SSE:1
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gvpr
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpgsm
+SSE:354
+SSE2:81
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gv2gml
+SSE:9
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gxl2gv
+SSE:5
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hangul
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/htdbm
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/head
+SSE:53
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-software
+SSE:321
+SSE2:262
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hostname
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hardlink
+SSE:50
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hostid
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/host
+SSE:143
+SSE2:34
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/htdigest
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hexdump
+SSE:29
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/htpasswd
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/idiag-socket-details
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-keyring-daemon
+SSE:533
+SSE2:232
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/httxt2dbm
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/iasecc-tool
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gzip
+SSE:62
+SSE2:44
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ibus
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hunspell
+SSE:48
+SSE2:15
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ionice
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gvmap
+SSE:108
+SSE2:1452
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/id
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/infocmp
+SSE:16
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ipcrm
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cyrusbdb2current
+SSE:2401
+SSE2:1127
+SSE3:0
+SSSE3:0
+SSE4:1
+AVX:0
+
+Working on /usr/bin/ipcmk
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ipcalc
+SSE:43
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ipcs
+SSE:30
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/iso-info
+SSE:10
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/intel-virtual-output
+SSE:72
+SSE2:39
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/iptc
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/irqtop
+SSE:18
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ibus-daemon
+SSE:26
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/isdv4-serial-inputattach
+SSE:2
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ipod-read-sysinfo-extended
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/isohybrid
+SSE:25
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/isosize
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/iso-read
+SSE:10
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/jq
+SSE:0
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/json_verify
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/install
+SSE:475
+SSE2:85
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/kbd_mode
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/jcat-tool
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/json_reformat
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/join
+SSE:41
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/flatpak
+SSE:498
+SSE2:245
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-photos
+SSE:519
+SSE2:1528
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/kbdinfo
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/kbdrate
+SSE:16
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/kbxutil
+SSE:44
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/keyctl
+SSE:7
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/last
+SSE:52
+SSE2:47
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/kill
+SSE:6
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/killall
+SSE:0
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/kasumi-unicode
+SSE:110
+SSE2:50
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/jwhois
+SSE:48
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lchfn
+SSE:14
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/htop
+SSE:407
+SSE2:724
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lessecho
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lesskey
+SSE:2
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lastcomm
+SSE:8
+SSE2:45
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lchsh
+SSE:2
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/libgtop_daemon2
+SSE:44
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/libieee1284_test
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpg
+SSE:754
+SSE2:310
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/libgtop_server2
+SSE:41
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lexgrog
+SSE:4
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/libwacom-list-local-devices
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gvpack
+SSE:1460
+SSE2:6568
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/link
+SSE:19
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/libinput
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/kmod
+SSE:120
+SSE2:54
+SSE3:0
+SSSE3:0
+SSE4:4
+AVX:0
+
+Working on /usr/bin/loadunimap
+SSE:28
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ln
+SSE:130
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/logname
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/logresolve
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/logger
+SSE:27
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/look
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/loadkeys
+SSE:89
+SSE2:41
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_checkhyphens
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_checktable
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_allround
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/login
+SSE:28
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_tableinfo
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_debug
+SSE:16
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_trace
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_translate
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lou_checkyaml
+SSE:10
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/less
+SSE:57
+SSE2:43
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsattr
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsirq
+SSE:11
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lslocks
+SSE:17
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsipc
+SSE:44
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsmem
+SSE:71
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lslogins
+SSE:56
+SSE2:39
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsns
+SSE:44
+SSE2:15
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lscpu
+SSE:182
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsfd
+SSE:111
+SSE2:56
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lefty
+SSE:520
+SSE2:1524
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/m17n-conv
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsblk
+SSE:111
+SSE2:29
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ls
+SSE:146
+SSE2:60
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/man-recode
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/malcontent-control
+SSE:5
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/manpath
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsusb
+SSE:40
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mapscrn
+SSE:31
+SSE2:21
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mcookie
+SSE:12
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/makedeltarpm
+SSE:59
+SSE2:46
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/memdiskfind
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/md5sum
+SSE:27
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mesg
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/man.man-db
+SSE:27
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mandb
+SSE:19
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lsof
+SSE:117
+SSE2:73
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/memstrack
+SSE:35
+SSE2:35
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mkfontscale
+SSE:38
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mkfifo
+SSE:78
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mktemp
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mknod
+SSE:81
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mbimcli
+SSE:3
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/modulemd-validator
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-tour
+SSE:10298
+SSE2:1112
+SSE3:0
+SSSE3:30
+SSE4:0
+AVX:80
+
+Working on /usr/bin/monitor-sensor
+SSE:5
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mountpoint
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mmc-tool
+SSE:12
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mokutil
+SSE:68
+SSE2:66
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/more
+SSE:18
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mount
+SSE:12
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgcat
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mkdir
+SSE:121
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mm2gv
+SSE:0
+SSE2:71
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgattrib
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgcmp
+SSE:0
+SSE2:31
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgcomm
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgconv
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/make
+SSE:139
+SSE2:136
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgen
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgexec
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgfilter
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mpage
+SSE:5
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msginit
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgunfmt
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msguniq
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgmerge
+SSE:6
+SSE2:40
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/namei
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mmcli
+SSE:3
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msgfmt
+SSE:0
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nautilus-autorun-software
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-ct-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ndptool
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/netkey-tool
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/msggrep
+SSE:133
+SSE2:41
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-ct-events
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-ct-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-exp-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-exp-delete
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-exp-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-log
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/emacs-28.1-nox
+SSE:2485
+SSE2:2474
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-monitor
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nf-queue
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ngettext
+SSE:4
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nice
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mv
+SSE:478
+SSE2:85
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-addr-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-addr-delete
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-addr-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-class-delete
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl
+SSE:19
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-class-list
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lp_solve
+SSE:417
+SSE2:5447
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-class-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-classid-lookup
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/netstat
+SSE:112
+SSE2:68
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-cls-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-cls-delete
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-cls-list
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-link-enslave
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-fib-lookup
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-link-ifindex2name
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-link-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-link-release
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-link-name2ifindex
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-link-set
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-link-stats
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-list-sockets
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-list-caches
+SSE:5
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-monitor
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-neigh-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-neigh-delete
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-neigh-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-neightbl-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-qdisc-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-pktloc-lookup
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-qdisc-delete
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-qdisc-list
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-route-add
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-route-delete
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-route-get
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-route-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-rule-list
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nano
+SSE:125
+SSE2:43
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-tctree-list
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nl-util-addr
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nop
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/notify-send
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nohup
+SSE:27
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nproc
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nsenter
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/opensc-asn1
+SSE:2
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/openpgp-tool
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/osinfo-db-export
+SSE:10
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nsupdate
+SSE:66
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/openvt
+SSE:18
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/numfmt
+SSE:20
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/orc-bugreport
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/osinfo-db-import
+SSE:10
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/od
+SSE:50
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ncat
+SSE:664
+SSE2:683
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/nslookup
+SSE:149
+SSE2:33
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/opensc-explorer
+SSE:52
+SSE2:46
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/opensc-tool
+SSE:12
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/osinfo-detect
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/osinfo-install-script
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/osinfo-query
+SSE:4
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pacat
+SSE:11
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/osinfo-db-validate
+SSE:8
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/osinfo-db-path
+SSE:7
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/p11-kit
+SSE:45
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pacmd
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pango-list
+SSE:14
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/paperconf
+SSE:0
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/optscript
+SSE:45
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pactl
+SSE:40
+SSE2:90
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pango-segmentation
+SSE:5
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pango-view
+SSE:83
+SSE2:293
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/passwd
+SSE:9
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pasuspender
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/paps
+SSE:56
+SSE2:126
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/paste
+SSE:19
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pathchk
+SSE:34
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pax11publish
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/perl
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/perl5.34.1
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/peekfd
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/piv-tool
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkaction
+SSE:6
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pinky
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkcheck
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pinentry-gnome3
+SSE:68
+SSE2:21
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkcs15-crypt
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pinentry-curses
+SSE:68
+SSE2:21
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkexec
+SSE:16
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkla-admin-identities
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkcon
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkmon
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ostree
+SSE:108
+SSE2:66
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pinfo
+SSE:11
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkcs15-tool
+SSE:43
+SSE2:51
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkcs15-init
+SSE:47
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkgconf
+SSE:11
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/plistutil
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkttyagent
+SSE:10
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pavucontrol
+SSE:235
+SSE2:211
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkla-check-authorization
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nm-connection-editor
+SSE:104
+SSE2:108
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pic
+SSE:587
+SSE2:2390
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pigz
+SSE:127
+SSE2:225
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkcs11-tool
+SSE:107
+SSE2:81
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/printenv
+SSE:15
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/prlimit
+SSE:13
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/prtstat
+SSE:31
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/plymouth
+SSE:24
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/prune
+SSE:3
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/psfxtable
+SSE:21
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pr
+SSE:40
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pslog
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/preconv
+SSE:13
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pre-grohtml
+SSE:49
+SSE2:27
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pstree
+SSE:1
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pwmake
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/printf
+SSE:29
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pwd
+SSE:28
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pwqcheck
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pwqgen
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pwscore
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ptx
+SSE:37
+SSE2:21
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pwqfilter
+SSE:5
+SSE2:59
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rapper
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/post-grohtml
+SSE:184
+SSE2:153
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/realpath
+SSE:81
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/redland-db-upgrade
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rdfproc
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/quotasync
+SSE:187
+SSE2:105
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/readlink
+SSE:78
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rename
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/recode-sr-latin
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/renice
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/quota
+SSE:188
+SSE2:104
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rb
+SSE:68
+SSE2:86
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/readtags
+SSE:94
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/report-cli
+SSE:13
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/qmi-firmware-update
+SSE:28
+SSE2:30
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/reporter-bugzilla
+SSE:22
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/reporter-upload
+SSE:7
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/reporter-kerneloops
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/report-gtk
+SSE:39
+SSE2:41
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/reporter-print
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/reporter-systemd-journal
+SSE:10
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rev
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/reporter-ureport
+SSE:40
+SSE2:36
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/resizecons
+SSE:24
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rhythmbox
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rhythmbox-client
+SSE:10
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rofiles-fuse
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/plocate
+SSE:3711
+SSE2:15466
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/roqet
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rmdir
+SSE:35
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpcinfo
+SSE:19
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpm
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpm2cpio
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rhash
+SSE:107
+SSE2:88
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rm
+SSE:156
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpcbind
+SSE:39
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpm2archive
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpmdumpheader
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpmkeys
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpmdb
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/satyr
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rygel
+SSE:16
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/runcon
+SSE:19
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rygel-preferences
+SSE:80
+SSE2:31
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rx
+SSE:68
+SSE2:86
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sccmap
+SSE:10
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rz
+SSE:68
+SSE2:86
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sc-hsm-tool
+SSE:22
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sb
+SSE:65
+SSE2:45
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/scriptreplay
+SSE:27
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/script
+SSE:53
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/scriptlive
+SSE:45
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sctp_status
+SSE:9
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/qmicli
+SSE:40
+SSE2:118
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/secon
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sctp_darn
+SSE:15
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sctp_test
+SSE:13
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sdiff
+SSE:26
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/secret-tool
+SSE:3
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/semodule_expand
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/semodule_package
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/semodule_unpackage
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/semodule_link
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/scp
+SSE:176
+SSE2:96
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/serdi
+SSE:5
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sestatus
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setfattr
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setcifsacl
+SSE:0
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sed
+SSE:153
+SSE2:119
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setarch
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setkeycodes
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setleds
+SSE:25
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/seq
+SSE:30
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setfacl
+SSE:14
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setsid
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setvtrgb
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setfont
+SSE:46
+SSE2:25
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setpriv
+SSE:4
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setterm
+SSE:20
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setmetamode
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nautilus
+SSE:677
+SSE2:1819
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/setxkbmap
+SSE:7
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha256hmac
+SSE:24
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/alacritty
+SSE:54568
+SSE2:10761
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/sha224sum
+SSE:27
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha1sum
+SSE:27
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha224hmac
+SSE:24
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha256sum
+SSE:27
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha384hmac
+SSE:24
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha1hmac
+SSE:24
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha384sum
+SSE:27
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha512hmac
+SSE:24
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/showkey
+SSE:22
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/showconsolefont
+SSE:29
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sha512sum
+SSE:27
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sedispol
+SSE:269
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/shred
+SSE:35
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sleep
+SSE:16
+SSE2:25
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/shuf
+SSE:103
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sm3hmac
+SSE:24
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sord_validate
+SSE:8
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sordi
+SSE:8
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sftp
+SSE:149
+SSE2:95
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/slirp4netns
+SSE:17
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/soelim.groff
+SSE:14
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/soundstretch
+SSE:493
+SSE2:263
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sshpass
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sedismod
+SSE:278
+SSE2:28
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/split
+SSE:41
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sss_ssh_knownhostsproxy
+SSE:3
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/spice-vdagent
+SSE:26
+SSE2:59
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pzstd
+SSE:1483
+SSE2:1189
+SSE3:0
+SSSE3:0
+SSE4:4
+AVX:0
+
+Working on /usr/bin/sort
+SSE:181
+SSE2:141
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sss_ssh_authorizedkeys
+SSE:3
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/stdbuf
+SSE:26
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/stl2gts
+SSE:0
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/stund
+SSE:19
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/spellout
+SSE:486
+SSE2:292
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/stunbdc
+SSE:26
+SSE2:15
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/stat
+SSE:111
+SSE2:42
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sync
+SSE:36
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/stty
+SSE:38
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sum
+SSE:27
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/symlinks
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ssh-add
+SSE:208
+SSE2:216
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/su
+SSE:30
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tabs
+SSE:4
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tac
+SSE:39
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/taskset
+SSE:27
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/syslinux
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sz
+SSE:65
+SSE2:45
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/system-config-abrt
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ssh-keyscan
+SSE:306
+SSE2:293
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tclsh8.6
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sx
+SSE:65
+SSE2:45
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/teamdctl
+SSE:26
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/teamnl
+SSE:11
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tee
+SSE:30
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/time
+SSE:10
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tail
+SSE:165
+SSE2:36
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ssh-agent
+SSE:260
+SSE2:288
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/simple-scan
+SSE:241
+SSE2:697
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/toe
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/timeout
+SSE:17
+SSE2:32
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/test
+SSE:12
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/totem
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tbl
+SSE:58
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/teamd
+SSE:196
+SSE2:53
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tr
+SSE:20
+SSE2:92
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tred
+SSE:4
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/totem-video-thumbnailer
+SSE:20
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tput
+SSE:9
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/truncate
+SSE:37
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ssh-keygen
+SSE:378
+SSE2:333
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tic
+SSE:15
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tset
+SSE:9
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tty
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/speak-ng
+SSE:486
+SSE2:674
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/touch
+SSE:124
+SSE2:73
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/true
+SSE:15
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/uchardet
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tree
+SSE:54
+SSE2:51
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tsort
+SSE:21
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/uclampset
+SSE:35
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ul
+SSE:9
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ulockmgr_server
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/unflatten
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/udisksctl
+SSE:6
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/trust
+SSE:280
+SSE2:64
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/umount
+SSE:9
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tss2
+SSE:29
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/unexpand
+SSE:20
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/uniq
+SSE:27
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/uname
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/unlink
+SSE:19
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/update-desktop-database
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/unshare
+SSE:16
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/unix2dos
+SSE:4
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/usbhid-dump
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/update-mime-database
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/upower
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/usleep
+SSE:0
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/uuidparse
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/uuidgen
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/users
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/utmpdump
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vlock
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/unpigz
+SSE:127
+SSE2:225
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vstp
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wall
+SSE:10
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/watchgnupg
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/westcos-tool
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wc
+SSE:29
+SSE2:43
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:5
+
+Working on /usr/bin/unzipsfx
+SSE:93
+SSE2:66
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wdctl
+SSE:37
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/whatis.man-db
+SSE:4
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/whereis
+SSE:25
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/which
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/whoami
+SSE:16
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/who
+SSE:26
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/unzip
+SSE:412
+SSE2:322
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/write
+SSE:12
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tpm2
+SSE:512
+SSE2:111
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vdir
+SSE:146
+SSE2:60
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xb-tool
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ssh
+SSE:775
+SSE2:542
+SSE3:0
+SSSE3:0
+SSE4:1
+AVX:0
+
+Working on /usr/bin/xdg-dbus-proxy
+SSE:5
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xdg-user-dirs-gtk-update
+SSE:3
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xdg-user-dirs-update
+SSE:10
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xauth
+SSE:10
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xdriinfo
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xargs
+SSE:38
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xev
+SSE:10
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xhost
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tar
+SSE:706
+SSE2:416
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xinit
+SSE:32
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xrdb
+SSE:22
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xsltproc
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xmodmap
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xsetwacom
+SSE:112
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xzdec
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/troff
+SSE:270
+SSE2:298
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xz
+SSE:50
+SSE2:133
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tracker3
+SSE:164
+SSE2:155
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/yelp
+SSE:5
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/yes
+SSE:15
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xbrlapi
+SSE:162
+SSE2:36
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zipsplit
+SSE:25
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:5
+AVX:0
+
+Working on /usr/bin/pdfattach
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdffonts
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zenity
+SSE:61
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zipcloak
+SSE:39
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:7
+AVX:0
+
+Working on /usr/bin/xkbcomp
+SSE:387
+SSE2:268
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdfdetach
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdfimages
+SSE:2
+SSE2:44
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zipnote
+SSE:32
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:5
+AVX:0
+
+Working on /usr/bin/pdfseparate
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdfinfo
+SSE:12
+SSE2:45
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdfsig
+SSE:12
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/openal-info
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdftoppm
+SSE:2
+SSE2:68
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdftops
+SSE:3
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdfunite
+SSE:7
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xgettext
+SSE:211
+SSE2:208
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tdbdump
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdftocairo
+SSE:114
+SSE2:992
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wget
+SSE:339
+SSE2:389
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zip
+SSE:126
+SSE2:239
+SSE3:0
+SSSE3:0
+SSE4:10
+AVX:0
+
+Working on /usr/bin/pdftotext
+SSE:30
+SSE2:38
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdftohtml
+SSE:86
+SSE2:297
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vkcube
+SSE:500
+SSE2:58
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zipinfo
+SSE:412
+SSE2:322
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tdbbackup
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tdbtool
+SSE:16
+SSE2:28
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vkcubepp
+SSE:588
+SSE2:74
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tdbrestore
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dltest
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cabextract
+SSE:89
+SSE2:63
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/slencheck
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/isql
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/iusql
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/odbcinst
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/odbc_config
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mdb_copy
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mdb_dump
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mdb_load
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mdb_stat
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbxtool
+SSE:9
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lastlog
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tmux
+SSE:1477
+SSE2:693
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/whiptail
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/newgidmap
+SSE:6
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/newgrp
+SSE:7
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cancel.cups
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fwupdate
+SSE:35
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gpasswd
+SSE:17
+SSE2:15
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lpoptions
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chage
+SSE:25
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lpq.cups
+SSE:0
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dfu-tool
+SSE:10
+SSE2:29
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fwupdmgr
+SSE:20
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dwz
+SSE:183
+SSE2:131
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lp.cups
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fwupdtool
+SSE:14
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lprm.cups
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lpstat.cups
+SSE:0
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-uuidgen
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/newuidmap
+SSE:6
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-monitor
+SSE:0
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lpr.cups
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-send
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-update-activation-environment
+SSE:10
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/source-highlight-settings
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/source-highlight
+SSE:127
+SSE2:78
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ppdmerge
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cupstestppd
+SSE:75
+SSE2:61
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ppdhtml
+SSE:216
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ppdi
+SSE:284
+SSE2:57
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ppdc
+SSE:219
+SSE2:33
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ppdpo
+SSE:214
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-cleanup-sockets
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-run-session
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-test-tool
+SSE:4
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ippfind
+SSE:0
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wvgain
+SSE:88
+SSE2:198
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getsubids
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wvtag
+SSE:35
+SSE2:27
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/check-regexp
+SSE:258
+SSE2:153
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/free
+SSE:29
+SSE2:43
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/appstreamcli
+SSE:24
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pgrep
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ipptool
+SSE:22
+SSE2:20
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wvunpack
+SSE:37
+SSE2:211
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pidwait
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wavpack
+SSE:92
+SSE2:316
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pidof
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pwdx
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/skill
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pkill
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fuse-overlayfs
+SSE:117
+SSE2:54
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/slabtop
+SSE:3
+SSE2:59
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmap
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/snice
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/uptime
+SSE:0
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ps
+SSE:19
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tload
+SSE:0
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/w
+SSE:3
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/watch
+SSE:0
+SSE2:15
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wnck-urgency-monitor
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gencat
+SSE:6
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getconf
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbus-daemon
+SSE:112
+SSE2:68
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmstat
+SSE:332
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mmdblookup
+SSE:13
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/innoextract
+SSE:1318
+SSE2:884
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pldd
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vulkaninfo
+SSE:434
+SSE2:204
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/getent
+SSE:4
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/locale
+SSE:49
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zdump
+SSE:6
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sprof
+SSE:19
+SSE2:63
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/top
+SSE:273
+SSE2:157
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/iconv
+SSE:81
+SSE2:29
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/chronyc
+SSE:61
+SSE2:231
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xmlsec1
+SSE:11
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aserver
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nm-online
+SSE:13
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/amidi
+SSE:20
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xrandr
+SSE:129
+SSE2:243
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aconnect
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ttmkfdir
+SSE:37
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aplaymidi
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aseqdump
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/arecordmidi
+SSE:12
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/amixer
+SSE:8
+SSE2:111
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/alsamixer
+SSE:16
+SSE2:95
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/alsaloop
+SSE:23
+SSE2:196
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aplay
+SSE:22
+SSE2:50
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/iecset
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/aseqnet
+SSE:5
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gs
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/speaker-test
+SSE:11
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mkmanifest
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/axfer
+SSE:28
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk4-launch
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/adwaita-1-demo
+SSE:8
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk4-update-icon-cache
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xmlcatalog
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-cache-64
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-conflist
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-match
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk4-broadwayd
+SSE:25
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/zstd
+SSE:1707
+SSE2:1662
+SSE3:0
+SSSE3:0
+SSE4:4
+AVX:0
+
+Working on /usr/bin/fc-list
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-query
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-cat
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-pattern
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-scan
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-validate
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/localedef
+SSE:453
+SSE2:236
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xmllint
+SSE:71
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hex2hcd
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/scanimage
+SSE:34
+SSE2:110
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bluemoon
+SSE:21
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/xmlwf
+SSE:17
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sane-find-scanner
+SSE:90
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mtools
+SSE:85
+SSE2:56
+SSE3:0
+SSSE3:0
+SSE4:2
+AVX:0
+
+Working on /usr/bin/qemu-ga
+SSE:354
+SSE2:233
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/avinfo
+SSE:0
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/l2ping
+SSE:2
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/l2test
+SSE:8
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/btattach
+SSE:15
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rctest
+SSE:25
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk-update-icon-cache
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mpris-proxy
+SSE:49
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/umax_pp
+SSE:507
+SSE2:436
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/btmgmt
+SSE:106
+SSE2:28
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-elfedit
+SSE:42
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nmtui
+SSE:212
+SSE2:106
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bluetoothctl
+SSE:138
+SSE2:29
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-dllwrap
+SSE:31
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/speech-dispatcher
+SSE:115
+SSE2:82
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nmcli
+SSE:416
+SSE2:206
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-c++filt
+SSE:55
+SSE2:23
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rsync
+SSE:349
+SSE2:391
+SSE3:2
+SSSE3:5
+SSE4:0
+AVX:16
+
+Working on /usr/bin/x86_64-w64-mingw32-c++filt
+SSE:55
+SSE2:23
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-dllwrap
+SSE:31
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/btmon
+SSE:137
+SSE2:80
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-elfedit
+SSE:42
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rg
+SSE:22099
+SSE2:4878
+SSE3:0
+SSSE3:30
+SSE4:0
+AVX:93
+
+Working on /usr/bin/mingw-nm
+SSE:609
+SSE2:336
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-readelf
+SSE:241
+SSE2:159
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-nm
+SSE:517
+SSE2:269
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bash
+SSE:818
+SSE2:530
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-windmc
+SSE:496
+SSE2:251
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-size
+SSE:462
+SSE2:246
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-dlltool
+SSE:558
+SSE2:289
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-ar
+SSE:473
+SSE2:249
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-addr2line
+SSE:511
+SSE2:269
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-strings
+SSE:464
+SSE2:246
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-ranlib
+SSE:473
+SSE2:249
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mingw-objcopy
+SSE:776
+SSE2:363
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mingw-strip
+SSE:776
+SSE2:363
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-objcopy
+SSE:684
+SSE2:296
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gprof
+SSE:513
+SSE2:494
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-ar
+SSE:561
+SSE2:315
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-as
+SSE:831
+SSE2:484
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/avahi-publish
+SSE:3
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-windres
+SSE:782
+SSE2:510
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/avahi-browse
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/avahi-resolve
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/avahi-set-host-name
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-strip
+SSE:684
+SSE2:296
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-addr2line
+SSE:599
+SSE2:335
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/conmon
+SSE:14
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mkpasswd
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmdate
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-ld.bfd
+SSE:997
+SSE2:548
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmfind
+SSE:5
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-ld
+SSE:997
+SSE2:548
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmdumplog
+SSE:6
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbpmda
+SSE:11
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-objdump
+SSE:839
+SSE2:367
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmjson
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pminfo
+SSE:20
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-dlltool
+SSE:646
+SSE2:355
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlc
+SSE:24
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmieconf
+SSE:42
+SSE2:21
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogcheck
+SSE:16
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogconf
+SSE:15
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogmv
+SSE:15
+SSE2:15
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogextract
+SSE:42
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mingw-objdump
+SSE:931
+SSE2:434
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogpaste
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmie
+SSE:47
+SSE2:389
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmloglabel
+SSE:7
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogsize
+SSE:67
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-readelf
+SSE:241
+SSE2:159
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogsummary
+SSE:44
+SSE2:112
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmprobe
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmpython
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmsearch
+SSE:2
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmseries
+SSE:13
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmtrace
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmlogger
+SSE:56
+SSE2:84
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmstat
+SSE:5
+SSE2:29
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmstore
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/debuginfod-find
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pmval
+SSE:8
+SSE2:33
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gprof
+SSE:601
+SSE2:560
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ar
+SSE:24
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/addr2line
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/elfedit
+SSE:42
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/c++filt
+SSE:8
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/crun
+SSE:177
+SSE2:34
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-as
+SSE:919
+SSE2:550
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nm
+SSE:22
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-cpp
+SSE:1052
+SSE2:541
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-cpp
+SSE:1052
+SSE2:541
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/gprof
+SSE:19
+SSE2:225
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ranlib
+SSE:24
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/strings
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-size
+SSE:550
+SSE2:312
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/size
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wine64
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-nm
+SSE:605
+SSE2:335
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-strings
+SSE:552
+SSE2:312
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wine64-preloader
+SSE:21
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-ranlib
+SSE:561
+SSE2:315
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcc-ranlib
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/objcopy
+SSE:257
+SSE2:45
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcc-ar
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcc-nm
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/strip
+SSE:257
+SSE2:45
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-windmc
+SSE:586
+SSE2:317
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk-launch
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/evince-previewer
+SSE:3
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk-query-immodules-3.0-64
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-strip
+SSE:772
+SSE2:362
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-ld
+SSE:1100
+SSE2:627
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/broadwayd
+SSE:28
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/evince-thumbnailer
+SSE:2
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/winedump
+SSE:107
+SSE2:54
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cvt
+SSE:73
+SSE2:50
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/objdump
+SSE:316
+SSE2:62
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtf
+SSE:146
+SSE2:154
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcov-dump
+SSE:338
+SSE2:158
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-windres
+SSE:870
+SSE2:576
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-objcopy
+SSE:772
+SSE2:362
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-addr2line
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/as
+SSE:363
+SSE2:235
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ld.bfd
+SSE:322
+SSE2:210
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-elfclassify
+SSE:2
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-elfcompress
+SSE:15
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-ar
+SSE:19
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-connections
+SSE:66
+SSE2:47
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dwp
+SSE:944
+SSE2:591
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-findtextrel
+SSE:9
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcov
+SSE:754
+SSE2:330
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcov-tool
+SSE:444
+SSE2:252
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gcc
+SSE:540
+SSE2:264
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-strings
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-size
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-stack
+SSE:4
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-ld.bfd
+SSE:1100
+SSE2:627
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-ranlib
+SSE:13
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-objdump
+SSE:927
+SSE2:433
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cpp
+SSE:541
+SSE2:265
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-elfcmp
+SSE:198
+SSE2:160
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/readelf
+SSE:151
+SSE2:114
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-redhat-linux-gcc-12
+SSE:540
+SSE2:264
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-elflint
+SSE:198
+SSE2:158
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-unstrip
+SSE:51
+SSE2:22
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-redhat-linux-gcc
+SSE:540
+SSE2:264
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wineserver64
+SSE:517
+SSE2:393
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcc-ar
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcc-ranlib
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-nm
+SSE:215
+SSE2:163
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-objdump
+SSE:207
+SSE2:158
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/evince
+SSE:122
+SSE2:360
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcc-nm
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-strip
+SSE:213
+SSE2:166
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/curl
+SSE:116
+SSE2:49
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-redhat-linux-g++
+SSE:540
+SSE2:264
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/g++
+SSE:540
+SSE2:264
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcc-nm
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcc-ranlib
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcc-ar
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/eu-readelf
+SSE:253
+SSE2:188
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lua
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/c++
+SSE:540
+SSE2:264
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfs-3g.probe
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-redhat-linux-c++
+SSE:540
+SSE2:264
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/VBoxDRMClient
+SSE:272
+SSE2:40
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfscat
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsck
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfscluster
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfscmp
+SSE:41
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/luac
+SSE:158
+SSE2:739
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsdecrypt
+SSE:7
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsdump_logfile
+SSE:16
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/lowntfs-3g
+SSE:93
+SSE2:102
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfs-3g
+SSE:138
+SSE2:113
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsfallocate
+SSE:21
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/VBoxClient
+SSE:710
+SSE2:277
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsfix
+SSE:16
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsinfo
+SSE:0
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsls
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsmove
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsmftalloc
+SSE:9
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfstruncate
+SSE:9
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfswipe
+SSE:6
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsusermap
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/arping
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/clockdiff
+SSE:6
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/tracepath
+SSE:7
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/VBoxControl
+SSE:592
+SSE2:384
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfssecaudit
+SSE:45
+SSE2:27
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/fc-cache-32
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/python3.10
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntfsrecover
+SSE:46
+SSE2:48
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ping
+SSE:53
+SSE2:70
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcov-tool
+SSE:876
+SSE2:431
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/wine32
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcov-tool
+SSE:876
+SSE2:431
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcov-dump
+SSE:855
+SSE2:394
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/wine32-preloader
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wpexec
+SSE:2
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wireplumber
+SSE:3
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pipewire
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcov-dump
+SSE:855
+SSE2:394
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/wpctl
+SSE:22
+SSE2:9
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pipewire-avb
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grdctl
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bluetooth-sendto
+SSE:7
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mutter
+SSE:8
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-shell
+SSE:8
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pipewire-pulse
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcov
+SSE:1106
+SSE2:495
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/pw-cat
+SSE:38
+SSE2:42
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-extensions
+SSE:0
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcc
+SSE:1047
+SSE2:536
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/pw-link
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-cli
+SSE:24
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-dump
+SSE:33
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-dot
+SSE:21
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-loopback
+SSE:20
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-metadata
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcc-11.2.1
+SSE:1047
+SSE2:536
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcov
+SSE:1106
+SSE2:495
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/pw-mididump
+SSE:8
+SSE2:13
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-mon
+SSE:15
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-profiler
+SSE:37
+SSE2:25
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-reserve
+SSE:4
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/i686-w64-mingw32-gcc-11.2.1
+SSE:1047
+SSE2:536
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/x86_64-w64-mingw32-gcc
+SSE:1047
+SSE2:536
+SSE3:0
+SSSE3:0
+SSE4:3
+AVX:0
+
+Working on /usr/bin/spa-inspect
+SSE:37
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/hpijs
+SSE:626
+SSE2:337
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/spa-monitor
+SSE:29
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gtk-query-immodules-3.0-32
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ld.gold
+SSE:2806
+SSE2:1742
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pw-top
+SSE:79
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/spa-resample
+SSE:339
+SSE2:92
+SSE3:3
+SSSE3:6
+SSE4:0
+AVX:5
+
+Working on /usr/bin/spa-json-dump
+SSE:4
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dosbox
+SSE:10140
+SSE2:6641
+SSE3:0
+SSSE3:0
+SSE4:69
+AVX:0
+
+Working on /usr/bin/hostnamectl
+SSE:9
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/localectl
+SSE:7
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/loginctl
+SSE:35
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/journalctl
+SSE:24
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/oomctl
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/networkctl
+SSE:32
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/portablectl
+SSE:36
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-ask-password
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/busctl
+SSE:31
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-cat
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/resolvectl
+SSE:31
+SSE2:23
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-cgls
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-creds
+SSE:6
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-detect-virt
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/homectl
+SSE:33
+SSE2:11
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-cgtop
+SSE:21
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-delta
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-dissect
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-escape
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-machine-id-setup
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-id128
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-inhibit
+SSE:2
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-path
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-firstboot
+SSE:6
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/spa-acp-tool
+SSE:323
+SSE2:208
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemctl
+SSE:193
+SSE2:47
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-notify
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-stdio-bridge
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-mount
+SSE:3
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-socket-activate
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-run
+SSE:18
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-tty-ask-password-agent
+SSE:14
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-sysext
+SSE:3
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-sysusers
+SSE:14
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/userdbctl
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wineserver32
+SSE:367
+SSE2:291
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/timedatectl
+SSE:44
+SSE2:7
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-tmpfiles
+SSE:37
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/pdbedit
+SSE:18
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/testparm
+SSE:2
+SSE2:2
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rustc
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbpasswd
+SSE:27
+SSE2:12
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbcontrol
+SSE:83
+SSE2:72
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/profiles
+SSE:12
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbstatus
+SSE:18
+SSE2:38
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-menulst2cfg
+SSE:144
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-checkvm
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mkrelpath
+SSE:171
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmtoolsd
+SSE:19
+SSE2:8
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/VGAuthService
+SSE:66
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmhgfs-fuse
+SSE:44
+SSE2:26
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-script-check
+SSE:173
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-hgfsclient
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mkpasswd-pbkdf2
+SSE:171
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-alias-import
+SSE:74
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-namespace-cmd
+SSE:17
+SSE2:16
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-rpctool
+SSE:53
+SSE2:10
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-toolbox-cmd
+SSE:17
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-vgauth-cmd
+SSE:1
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-editenv
+SSE:177
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-xferlogs
+SSE:64
+SSE2:6
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-hwdb
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/coredumpctl
+SSE:9
+SSE2:5
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bootctl
+SSE:46
+SSE2:14
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-cryptenroll
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/animate
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/composite
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/compare
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/display
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/convert
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/conjure
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mkimage
+SSE:177
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/import
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/identify
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mogrify
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-repart
+SSE:87
+SSE2:30
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/stream
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/montage
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-user-suid-wrapper
+SSE:4
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmware-vmblock-fuse
+SSE:4
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/vmwgfxctrl
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dbwrap_tool
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/wbinfo
+SSE:85
+SSE2:77
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/dumpmscat
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mvxattr
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ntlm_auth
+SSE:28
+SSE2:18
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cifsdd
+SSE:49
+SSE2:34
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/mdsearch
+SSE:70
+SSE2:49
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/oLschema2ldif
+SSE:7
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/regdiff
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/udevadm
+SSE:165
+SSE2:53
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/regpatch
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/regtree
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/git-shell
+SSE:1354
+SSE2:448
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/regshell
+SSE:4
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nmblookup
+SSE:174
+SSE2:166
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/net
+SSE:1117
+SSE2:726
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbcacls
+SSE:70
+SSE2:56
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/sharesec
+SSE:30
+SSE2:30
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbget
+SSE:5
+SSE2:17
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbcquotas
+SSE:20
+SSE2:4
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/samba-regedit
+SSE:83
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbspool
+SSE:1
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/scalar
+SSE:1523
+SSE2:496
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbtree
+SSE:0
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/smbclient
+SSE:68
+SSE2:72
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/systemd-analyze
+SSE:943
+SSE2:425
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/traceroute
+SSE:69
+SSE2:152
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-file
+SSE:165
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mount
+SSE:190
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mkfont
+SSE:171
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mklayout
+SSE:171
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-glue-efi
+SSE:171
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-modprobe
+SSE:75
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/m4
+SSE:417
+SSE2:226
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/flex
+SSE:43
+SSE2:32
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-installer
+SSE:296
+SSE2:19
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-cuda-mps-control
+SSE:77
+SSE2:30
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-cuda-mps-server
+SSE:3
+SSE2:3
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mknetdir
+SSE:177
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-debugdump
+SSE:55
+SSE2:27
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/gnome-control-center
+SSE:687
+SSE2:1409
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/bison
+SSE:1054
+SSE2:798
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-xconfig
+SSE:143
+SSE2:75
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mkstandalone
+SSE:179
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-persistenced
+SSE:91
+SSE2:1
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/WebKitWebDriver
+SSE:1527
+SSE2:1667
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-settings
+SSE:309
+SSE2:111
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rpcclient
+SSE:1732
+SSE2:1686
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-smi
+SSE:402
+SSE2:222
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-render-label
+SSE:192
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-powerd
+SSE:864
+SSE2:420
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-syslinux2cfg
+SSE:192
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-fstest
+SSE:190
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/grub2-mkrescue
+SSE:198
+SSE2:0
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/Xwayland
+SSE:4700
+SSE2:5655
+SSE3:0
+SSSE3:0
+SSE4:121
+AVX:0
+
+Working on /usr/bin/git
+SSE:9808
+SSE2:4191
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/nvidia-ngx-updater
+SSE:1763
+SSE2:5245
+SSE3:0
+SSSE3:274
+SSE4:3
+AVX:2822
+
+Working on /usr/bin/cpack
+SSE:9943
+SSE2:3472
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/ccmake
+SSE:9870
+SSE2:3482
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/cmake
+SSE:10480
+SSE2:3736
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/rustdoc
+SSE:48824
+SSE2:12583
+SSE3:0
+SSSE3:62
+SSE4:8
+AVX:178
+
+Working on /usr/bin/ctest
+SSE:11811
+SSE2:4196
+SSE3:0
+SSSE3:0
+SSE4:0
+AVX:0
+
+Working on /usr/bin/supertuxkart
+SSE:131580
+SSE2:13451
+SSE3:0
+SSSE3:0
+SSE4:5
+AVX:0
+
+Working on /usr/bin/cargo
+SSE:108191
+SSE2:22243
+SSE3:0
+SSSE3:62
+SSE4:47
+AVX:187
+
+Working on /usr/bin/i686-w64-mingw32-lto-dump
+SSE:27635
+SSE2:20216
+SSE3:0
+SSSE3:0
+SSE4:29
+AVX:0
+
+Working on /usr/bin/podman
+SSE:68277
+SSE2:3382
+SSE3:0
+SSSE3:390
+SSE4:30
+AVX:903
+
+Working on /usr/bin/x86_64-w64-mingw32-lto-dump
+SSE:28443
+SSE2:20875
+SSE3:0
+SSSE3:0
+SSE4:29
+AVX:0
+
+Working on /usr/bin/lto-dump
+SSE:42829
+SSE2:17048
+SSE3:0
+SSSE3:0
+SSE4:34
+AVX:0
