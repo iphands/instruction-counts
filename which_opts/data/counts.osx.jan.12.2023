@@ -1,0 +1,5088 @@
+
+Working on /usr/bin/indent
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/write
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bzip2recover
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/javah
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tee
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xip
+SSE:      18
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/wsimport
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bzfgrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/top
+SSE:     169
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmptranslate
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/split
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uux
+SSE:      88
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xml2man
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/chsh
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lpoptions
+SSE:       0
+SSE2:      17
+SSE3:       0
+SSSE3:       0
+SSE4:       3
+AVX:       0
+
+Working on /usr/bin/tabs
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lsvfs
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gcov
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zgrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mandoc_soelim
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xjc
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/man
+SSE:      24
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cancel
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/apply
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bzgrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/g++
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/libtool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hdiutil
+SSE:     155
+SSE2:      93
+SSE3:       1
+SSSE3:      10
+SSE4:       5
+AVX:       0
+
+Working on /usr/bin/pre-grohtml
+SSE:     171
+SSE2:      64
+SSE3:       0
+SSSE3:       0
+SSE4:       5
+AVX:       0
+
+Working on /usr/bin/colcrt
+SSE:       0
+SSE2:      32
+SSE3:       0
+SSSE3:       0
+SSE4:       6
+AVX:       0
+
+Working on /usr/bin/mkfifo
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/toe
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hexdump
+SSE:      10
+SSE2:       1
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/groff
+SSE:     149
+SSE2:      58
+SSE3:       0
+SSSE3:       0
+SSE4:       5
+AVX:       0
+
+Working on /usr/bin/Rez
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cap_mkdb
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ictool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cmp
+SSE:      16
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmpset
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/locate
+SSE:      31
+SSE2:       3
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/trustcachectl
+SSE:      18
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dyld_info
+SSE:    1517
+SSE2:      20
+SSE3:       0
+SSSE3:       0
+SSE4:       5
+AVX:       0
+
+Working on /usr/bin/afclip
+SSE:     244
+SSE2:      56
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/extcheck
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bzegrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/javapackager
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pl
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/compress
+SSE:      36
+SSE2:       8
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ctags
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/afconvert
+SSE:     296
+SSE2:      93
+SSE3:       1
+SSSE3:       2
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/pathchk
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mesg
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/setregion
+SSE:      11
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/c++
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/unpack200
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/expand
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/strings
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/appletviewer
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/idlj
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/wall
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gm4
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/brctl
+SSE:     216
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/auvaltool
+SSE:     470
+SSE2:     171
+SSE3:       1
+SSSE3:       0
+SSE4:       4
+AVX:       0
+
+Working on /usr/bin/applesingle
+SSE:      10
+SSE2:      12
+SSE3:       0
+SSSE3:       4
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/clang
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ibtool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tty
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/demandoc
+SSE:      97
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/git-receive-pack
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pkill
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/basename
+SSE:      18
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/objdump
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/install
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/native2ascii
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/c99
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/desdp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/binhex
+SSE:      21
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lsmp
+SSE:      18
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xmllint
+SSE:      66
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/last
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/vm_stat
+SSE:      10
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/syslog
+SSE:       4
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_upgrade
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/c++filt
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/avbdiagnose
+SSE:      20
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_hotbackup
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/nice
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xcscontrol
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/calendar
+SSE:       4
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/strip
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/locale
+SSE:      49
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tfmtodit
+SSE:     131
+SSE2:       9
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/trace
+SSE:      30
+SSE2:      83
+SSE3:       4
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/symbolscache
+SSE:     984
+SSE2:      30
+SSE3:       1
+SSSE3:       5
+SSE4:      11
+AVX:       0
+
+Working on /usr/bin/lprm
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tops
+SSE:      59
+SSE2:      20
+SSE3:       3
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/du
+SSE:       2
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/diff3
+SSE:      22
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cupstestppd
+SSE:      86
+SSE2:      63
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/sw_vers
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fs_usage
+SSE:      38
+SSE2:      12
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tiffutil
+SSE:    1048
+SSE2:    1155
+SSE3:      12
+SSSE3:       5
+SSE4:      81
+AVX:       0
+
+Working on /usr/bin/jarsigner
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/app-sso
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/grolbp
+SSE:     171
+SSE2:     226
+SSE3:       0
+SSSE3:       0
+SSE4:      10
+AVX:       0
+
+Working on /usr/bin/nscurl
+SSE:       2
+SSE2:      18
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/logger
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/caffeinate
+SSE:       3
+SSE2:       3
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/say
+SSE:      53
+SSE2:      36
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/plutil
+SSE:      40
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/python3
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/avbutil
+SSE:      57
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xcode-select
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/powermetrics
+SSE:     336
+SSE2:     931
+SSE3:     112
+SSSE3:       0
+SSE4:       6
+AVX:       0
+
+Working on /usr/bin/ldapmodify
+SSE:     494
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/join
+SSE:      12
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/SafeEjectGPU
+SSE:      19
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmpdelta
+SSE:      84
+SSE2:       6
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/vim
+SSE:    3576
+SSE2:    1644
+SSE3:       0
+SSSE3:      29
+SSE4:     234
+AVX:       0
+
+Working on /usr/bin/renice
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xxd
+SSE:       0
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/clangd
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nettop
+SSE:     175
+SSE2:      30
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ppdmerge
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ssh-keyscan
+SSE:     621
+SSE2:     211
+SSE3:       6
+SSSE3:       5
+SSE4:      18
+AVX:       0
+
+Working on /usr/bin/xsltproc
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/osascript
+SSE:      31
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lex
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ctf_insert
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/csplit
+SSE:       4
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/iconv
+SSE:      11
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/lsbom
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pbcopy
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sort
+SSE:      94
+SSE2:      27
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/snmpdf
+SSE:       0
+SSE2:      51
+SSE3:      11
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/whoami
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sc_usage
+SSE:      49
+SSE2:     160
+SSE3:      15
+SSSE3:       0
+SSE4:       3
+AVX:       0
+
+Working on /usr/bin/jot
+SSE:       5
+SSE2:      59
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ocspcheck
+SSE:      13
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mkbom
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nslookup
+SSE:    2791
+SSE2:    1632
+SSE3:       0
+SSSE3:       2
+SSE4:      62
+AVX:       0
+
+Working on /usr/bin/pkgbuild
+SSE:     116
+SSE2:       1
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/update_dyld_shared_cache
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ldapurl
+SSE:     416
+SSE2:      19
+SSE3:       0
+SSSE3:       0
+SSE4:       8
+AVX:       0
+
+Working on /usr/bin/systemextensionsctl
+SSE:      55
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/troff
+SSE:     787
+SSE2:     218
+SSE3:       3
+SSSE3:       0
+SSE4:      20
+AVX:       0
+
+Working on /usr/bin/file
+SSE:     248
+SSE2:      75
+SSE3:       4
+SSSE3:       9
+SSE4:      15
+AVX:       0
+
+Working on /usr/bin/sourcekit-lsp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ldapmodrdn
+SSE:     478
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/bc
+SSE:      62
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sfltool
+SSE:      92
+SSE2:       4
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mg
+SSE:      94
+SSE2:       7
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/less
+SSE:      43
+SSE2:      24
+SSE3:       0
+SSSE3:       4
+SSE4:      11
+AVX:       0
+
+Working on /usr/bin/touch
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bunzip2
+SSE:       8
+SSE2:      25
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/rmic
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/host
+SSE:    2786
+SSE2:    1626
+SSE3:       0
+SSSE3:       2
+SSE4:      62
+AVX:       0
+
+Working on /usr/bin/getopt
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/refer
+SSE:     189
+SSE2:      46
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hiutil
+SSE:      71
+SSE2:      13
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pip3
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/rmid
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sed
+SSE:      48
+SSE2:      20
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ld
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/security
+SSE:     600
+SSE2:      15
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/umtool
+SSE:      93
+SSE2:       8
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/awk
+SSE:      98
+SSE2:     132
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmpstatus
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uudecode
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fmt
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sdef
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ncctl
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jmc
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/psm
+SSE:     587
+SSE2:      44
+SSE3:       0
+SSSE3:       0
+SSE4:       4
+AVX:       0
+
+Working on /usr/bin/chpass
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mail
+SSE:      28
+SSE2:       6
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/xcrun
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lldb
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/chfn
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pfbtops
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lam
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sips
+SSE:     544
+SSE2:     466
+SSE3:      10
+SSSE3:       1
+SSE4:      52
+AVX:       0
+
+Working on /usr/bin/ipptool
+SSE:      20
+SSE2:      27
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/logname
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tset
+SSE:      18
+SSE2:      11
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/chgrp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cu
+SSE:     150
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/grops
+SSE:     201
+SSE2:     207
+SSE3:       4
+SSSE3:       1
+SSE4:      12
+AVX:       0
+
+Working on /usr/bin/printenv
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/unvis
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/grotty
+SSE:     157
+SSE2:      85
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/atq
+SSE:      22
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/seq
+SSE:       1
+SSE2:      55
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/AssetCacheManagerUtil
+SSE:      46
+SSE2:      12
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/colldef
+SSE:      21
+SSE2:      30
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/jdb
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/perl5.30
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uname
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_printlog
+SSE:    2207
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/jstack
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/parl
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hpmdiagnose
+SSE:     139
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/unzip
+SSE:      27
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/rmiregistry
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/test-yaml
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zprint
+SSE:      66
+SSE2:      35
+SSE3:       2
+SSSE3:       0
+SSE4:       3
+AVX:       0
+
+Working on /usr/bin/db_archive
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/od
+SSE:      10
+SSE2:       1
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/kinit
+SSE:      17
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/perl
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bsdtar
+SSE:      52
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tbtdiagnose
+SSE:      33
+SSE2:      13
+SSE3:       3
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mcxquery
+SSE:     136
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/crontab
+SSE:       0
+SSE2:       1
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/ppdpo
+SSE:     318
+SSE2:      72
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sysdiagnose
+SSE:     410
+SSE2:      83
+SSE3:       4
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bzcat
+SSE:       8
+SSE2:      25
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jvisualvm
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/kextutil
+SSE:      53
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/eqn
+SSE:     144
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       3
+AVX:       0
+
+Working on /usr/bin/footprint
+SSE:     402
+SSE2:      85
+SSE3:       6
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fwkdp
+SSE:       3
+SSE2:       9
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/snmpusm
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/base64
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jar
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/readlink
+SSE:       4
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jcmd
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dmc
+SSE:      91
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/from
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gencat
+SSE:      35
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mdutil
+SSE:     172
+SSE2:      85
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mcxrefresh
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/colrm
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pagestuff
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/crlrefresh
+SSE:      51
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/headerdoc2html
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tbl
+SSE:     135
+SSE2:      63
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jrunscript
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/filtercalltree
+SSE:       9
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/afhash
+SSE:       2
+SSE2:       9
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sandbox-exec
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lsappinfo
+SSE:    1482
+SSE2:     169
+SSE3:       3
+SSSE3:       0
+SSE4:      16
+AVX:       0
+
+Working on /usr/bin/snmpvacm
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/stapler
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fwkpfv
+SSE:       7
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/codecctl
+SSE:     207
+SSE2:      31
+SSE3:       1
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/wc
+SSE:      18
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jps
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sftp
+SSE:     275
+SSE2:      71
+SSE3:       2
+SSSE3:       0
+SSE4:       4
+AVX:       0
+
+Working on /usr/bin/osacompile
+SSE:      44
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hdxml2manxml
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_stat
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/gzcat
+SSE:     110
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/thermal
+SSE:       0
+SSE2:       1
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/rsync
+SSE:     411
+SSE2:     251
+SSE3:       2
+SSSE3:       0
+SSE4:      48
+AVX:       0
+
+Working on /usr/bin/comm
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/resolveLinks
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xcdebug
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lpq
+SSE:       0
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/java
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gzip
+SSE:     110
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zipcloak
+SSE:      32
+SSE2:      24
+SSE3:       0
+SSSE3:       0
+SSE4:       6
+AVX:       0
+
+Working on /usr/bin/git-upload-archive
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pico
+SSE:     356
+SSE2:     106
+SSE3:       0
+SSSE3:       0
+SSE4:      49
+AVX:       0
+
+Working on /usr/bin/encode_keychange
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gcc
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/diff
+SSE:     121
+SSE2:      10
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/smbutil
+SSE:      70
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/agvtool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cksum
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/segedit
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/indxbib
+SSE:     129
+SSE2:       9
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/printf
+SSE:       9
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zipnote
+SSE:      32
+SSE2:      24
+SSE3:       0
+SSSE3:       0
+SSE4:       6
+AVX:       0
+
+Working on /usr/bin/soelim
+SSE:     129
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/column
+SSE:       7
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/AssetCacheTetheratorUtil
+SSE:      15
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_load
+SSE:    2208
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/groups
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dwarfdump
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ippfind
+SSE:       1
+SSE2:      25
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/rs
+SSE:       0
+SSE2:      31
+SSE3:       0
+SSSE3:       0
+SSE4:       7
+AVX:       0
+
+Working on /usr/bin/latency
+SSE:      12
+SSE2:     111
+SSE3:      10
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/lsm
+SSE:      23
+SSE2:       4
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/ppdc
+SSE:     318
+SSE2:      72
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xar
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dns-sd
+SSE:      33
+SSE2:      62
+SSE3:       0
+SSSE3:       0
+SSE4:      15
+AVX:       0
+
+Working on /usr/bin/tab2space
+SSE:       4
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/avconvert
+SSE:      66
+SSE2:       6
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jhsdb
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ldapexop
+SSE:     480
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/parl5.30
+SSE:      24
+SSE2:      14
+SSE3:       0
+SSSE3:       2
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/unzipsfx
+SSE:      21
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/csreq
+SSE:      93
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gperf
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/iconutil
+SSE:      12
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tail
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/whois
+SSE:      11
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zipsplit
+SSE:      32
+SSE2:      24
+SSE3:       0
+SSSE3:       0
+SSE4:       6
+AVX:       0
+
+Working on /usr/bin/ldapdelete
+SSE:     478
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/grep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pstopdf
+SSE:       9
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/script
+SSE:      17
+SSE2:       2
+SSE3:       0
+SSSE3:       1
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/vtool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/more
+SSE:      43
+SSE2:      24
+SSE3:       0
+SSSE3:       4
+SSE4:      11
+AVX:       0
+
+Working on /usr/bin/ldapwhoami
+SSE:     476
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/cal
+SSE:      33
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/afplay
+SSE:      35
+SSE2:      39
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/addftinfo
+SSE:     135
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/time
+SSE:       2
+SSE2:       4
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/db_codegen
+SSE:    2196
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/afktool
+SSE:      24
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ssh-agent
+SSE:     389
+SSE2:     119
+SSE3:       2
+SSSE3:       4
+SSE4:      15
+AVX:       0
+
+Working on /usr/bin/gcore
+SSE:     164
+SSE2:      29
+SSE3:       0
+SSSE3:       0
+SSE4:       3
+AVX:       0
+
+Working on /usr/bin/javap
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xed
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/javaws
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uuname
+SSE:      54
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/env
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/texindex
+SSE:       4
+SSE2:      13
+SSE3:       0
+SSSE3:       1
+SSE4:       4
+AVX:       0
+
+Working on /usr/bin/pr
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/head
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dsymutil
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/clear
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/units
+SSE:       4
+SSE2:      43
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/kgetcred
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/rev
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/SplitForks
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uniq
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/productsign
+SSE:      59
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mklocale
+SSE:       5
+SSE2:      96
+SSE3:       0
+SSSE3:       3
+SSE4:      14
+AVX:       0
+
+Working on /usr/bin/defaults
+SSE:      42
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/info
+SSE:     109
+SSE2:       6
+SSE3:       0
+SSSE3:       1
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/tic
+SSE:      44
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uulog
+SSE:      78
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/atrm
+SSE:      22
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/delv
+SSE:    2748
+SSE2:    1672
+SSE3:       0
+SSSE3:       2
+SSE4:      61
+AVX:       0
+
+Working on /usr/bin/zip
+SSE:      79
+SSE2:     114
+SSE3:       0
+SSSE3:       0
+SSE4:      35
+AVX:       0
+
+Working on /usr/bin/agentxtrap
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/wdutil
+SSE:      17
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/servertool
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/curl
+SSE:     121
+SSE2:      30
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/newgrp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/rpcgen
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/parldyn5.30
+SSE:      24
+SSE2:      14
+SSE3:       0
+SSSE3:       2
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/snmpnetstat
+SSE:     166
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lastcomm
+SSE:       2
+SSE2:       8
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/getconf
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/kpasswd
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/vis
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/post-grohtml
+SSE:     465
+SSE2:     112
+SSE3:       0
+SSSE3:       0
+SSE4:      15
+AVX:       0
+
+Working on /usr/bin/ipcrm
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hpftodit
+SSE:     155
+SSE2:     140
+SSE3:       0
+SSSE3:       0
+SSE4:       7
+AVX:       0
+
+Working on /usr/bin/bputil
+SSE:     469
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/otool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/killall
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pic
+SSE:     590
+SSE2:    1918
+SSE3:      36
+SSSE3:       0
+SSE4:       7
+AVX:       0
+
+Working on /usr/bin/tailspin
+SSE:     123
+SSE2:       6
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/patch
+SSE:      90
+SSE2:      45
+SSE3:       0
+SSSE3:       0
+SSE4:       8
+AVX:       0
+
+Working on /usr/bin/su
+SSE:       6
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ul
+SSE:       4
+SSE2:     177
+SSE3:       0
+SSSE3:       0
+SSE4:      42
+AVX:       0
+
+Working on /usr/bin/compression_tool
+SSE:       1
+SSE2:      36
+SSE3:       2
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/kdestroy
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmpgetnext
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/msgs
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jhat
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tidy
+SSE:       2
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tftp
+SSE:     130
+SSE2:      13
+SSE3:       1
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/nsupdate
+SSE:    2791
+SSE2:    1615
+SSE3:       0
+SSSE3:       2
+SSE4:      62
+AVX:       0
+
+Working on /usr/bin/AssetCacheLocatorUtil
+SSE:      20
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/orbd
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/networkQuality
+SSE:       0
+SSE2:      16
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ktrace
+SSE:     100
+SSE2:      47
+SSE3:      10
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/DeRez
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/textutil
+SSE:       4
+SSE2:      19
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/automator
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/wsgen
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ssh
+SSE:     978
+SSE2:     230
+SSE3:       8
+SSSE3:       5
+SSE4:      18
+AVX:       0
+
+Working on /usr/bin/javac
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/stat
+SSE:       4
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/xcsdiagnose
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mdfind
+SSE:      17
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mdls
+SSE:       9
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/codesign_allocate
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/grodvi
+SSE:     164
+SSE2:     180
+SSE3:       4
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/lookbib
+SSE:     145
+SSE2:      14
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmpbulkwalk
+SSE:       6
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/keytool
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mddiagnose
+SSE:     218
+SSE2:      86
+SSE3:       2
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dserr
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_verify
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/tiff2icns
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pbpaste
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/policytool
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/actool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/heap
+SSE:      30
+SSE2:      26
+SSE3:       3
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/sum
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lskq
+SSE:      33
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/macbinary
+SSE:      16
+SSE2:      16
+SSE3:       0
+SSSE3:       4
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nc
+SSE:     111
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmptrap
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tsort
+SSE:       2
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uuencode
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cpp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/swift
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/batch
+SSE:      22
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/assetutil
+SSE:    3770
+SSE2:    5527
+SSE3:     138
+SSSE3:      79
+SSE4:     153
+AVX:       0
+
+Working on /usr/bin/make
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mandoc
+SSE:     201
+SSE2:     198
+SSE3:      28
+SSSE3:       0
+SSE4:       4
+AVX:       0
+
+Working on /usr/bin/infocmp
+SSE:      43
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/apt
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/trimforce
+SSE:      17
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nm
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/flex++
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/osadecompile
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/IOAccelMemory
+SSE:     120
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/automationmodetool
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ssh-add
+SSE:     467
+SSE2:     114
+SSE3:       2
+SSSE3:       4
+SSE4:      15
+AVX:       0
+
+Working on /usr/bin/machine
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/screen
+SSE:     273
+SSE2:      28
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/snmpget
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pcsctest
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/codesign
+SSE:     433
+SSE2:      33
+SSE3:       1
+SSSE3:       0
+SSE4:       6
+AVX:       0
+
+Working on /usr/bin/atos
+SSE:      32
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/llvm-gcc
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/arch
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ssh-keygen
+SSE:     521
+SSE2:     134
+SSE3:       4
+SSSE3:       4
+SSE4:      16
+AVX:       0
+
+Working on /usr/bin/snmptable
+SSE:      12
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ditto
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/users
+SSE:       4
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmpbulkget
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sdp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/showmount
+SSE:      16
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/taskinfo
+SSE:       9
+SSE2:      51
+SSE3:      11
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ar
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/who
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mktemp
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/unifdef
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cut
+SSE:      18
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pack200
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sqlite3
+SSE:    3092
+SSE2:    1328
+SSE3:       1
+SSSE3:       0
+SSE4:     103
+AVX:       0
+
+Working on /usr/bin/hdid
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dc
+SSE:      28
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ippeveprinter
+SSE:      19
+SSE2:      10
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/biff
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/odutil
+SSE:      45
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jsadebugd
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mailx
+SSE:      28
+SSE2:       6
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/xargs
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nl
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jjs
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sample
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lipo
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/clang++
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/aa
+SSE:     148
+SSE2:      37
+SSE3:       0
+SSSE3:       0
+SSE4:       3
+AVX:       0
+
+Working on /usr/bin/shlock
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/symbols
+SSE:     559
+SSE2:      29
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/xctrace
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/genstrings
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/at
+SSE:      22
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/what
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/m4
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/asa
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fileproviderctl
+SSE:       5
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/swiftc
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nfsstat
+SSE:      78
+SSE2:       7
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/uupick
+SSE:      78
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ipcs
+SSE:      50
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/as
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pluginkit
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fold
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gnumake
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/perl5.18
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dig
+SSE:    2792
+SSE2:    1629
+SSE3:       0
+SSSE3:       2
+SSE4:      62
+AVX:       0
+
+Working on /usr/bin/checknr
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/shortcuts
+SSE:    3050
+SSE2:     118
+SSE3:       0
+SSSE3:       0
+SSE4:      57
+AVX:       0
+
+Working on /usr/bin/vmmap
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/certtool
+SSE:     299
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/log
+SSE:     246
+SSE2:      80
+SSE3:       8
+SSSE3:       0
+SSE4:       4
+AVX:       0
+
+Working on /usr/bin/lkbib
+SSE:     145
+SSE2:      14
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ResMerger
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/csrutil
+SSE:     218
+SSE2:      20
+SSE3:       0
+SSSE3:       0
+SSE4:       5
+AVX:       0
+
+Working on /usr/bin/funzip
+SSE:       9
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/atsutil
+SSE:      16
+SSE2:       4
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/osalang
+SSE:       2
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dirname
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/infokey
+SSE:       4
+SSE2:       1
+SSE3:       0
+SSSE3:       1
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/ncal
+SSE:      33
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/chflags
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/derq
+SSE:     242
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jmap
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ldappasswd
+SSE:     478
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/tmutil
+SSE:     991
+SSE2:     281
+SSE3:       3
+SSSE3:       0
+SSE4:       5
+AVX:       0
+
+Working on /usr/bin/nbdst
+SSE:       0
+SSE2:       9
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mnthome
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jshell
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dsexport
+SSE:      42
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/leaks
+SSE:      69
+SSE2:      39
+SSE3:       2
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/parldyn
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dscl
+SSE:     126
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/id
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/quota
+SSE:       8
+SSE2:       8
+SSE3:       0
+SSSE3:       2
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/git-shell
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dsimport
+SSE:      79
+SSE2:      29
+SSE3:       0
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/egrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/notifyutil
+SSE:      22
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cc
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dsmemberutil
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/grn
+SSE:     184
+SSE2:     395
+SSE3:       2
+SSSE3:       0
+SSE4:       6
+AVX:       0
+
+Working on /usr/bin/mdimport
+SSE:     447
+SSE2:     186
+SSE3:       8
+SSSE3:       9
+SSE4:      15
+AVX:       0
+
+Working on /usr/bin/whereis
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tccutil
+SSE:      32
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/find
+SSE:       6
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jstat
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/a2p
+SSE:      24
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/unifdefall
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zcat
+SSE:     110
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jlink
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/size
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uttype
+SSE:      34
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/timesyncanalyse
+SSE:      47
+SSE2:      44
+SSE3:       0
+SSSE3:       0
+SSE4:      36
+AVX:       0
+
+Working on /usr/bin/ldapsearch
+SSE:     516
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/llvm-g++
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmpwalk
+SSE:       4
+SSE2:       6
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tnameserv
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uustat
+SSE:     121
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/true
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hidutil
+SSE:      50
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/afinfo
+SSE:     161
+SSE2:      18
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pwpolicy
+SSE:      32
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/yacc
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/scp
+SSE:     241
+SSE2:      32
+SSE3:       2
+SSSE3:       0
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/xcodebuild
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/c89
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/profiles
+SSE:     114
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/plockstat
+SSE:      34
+SSE2:      21
+SSE3:       2
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/serialver
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tmdiagnose
+SSE:     165
+SSE2:      12
+SSE3:       2
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pgrep
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/yes
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bioutil
+SSE:     699
+SSE2:      20
+SSE3:       0
+SSSE3:       0
+SSE4:       7
+AVX:       0
+
+Working on /usr/bin/afida
+SSE:    1313
+SSE2:     117
+SSE3:      14
+SSSE3:       0
+SSE4:      23
+AVX:       0
+
+Working on /usr/bin/lessecho
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sdiff
+SSE:      16
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/afscexpand
+SSE:      75
+SSE2:       8
+SSE3:       0
+SSSE3:       2
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/unexpand
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/git-upload-pack
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/grolj4
+SSE:     161
+SSE2:     150
+SSE3:       3
+SSSE3:       0
+SSE4:      10
+AVX:       0
+
+Working on /usr/bin/lorder
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ranlib
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/javadoc
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tput
+SSE:       8
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fgrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ppdhtml
+SSE:     318
+SSE2:      72
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ldapcompare
+SSE:     480
+SSE2:      21
+SSE3:       0
+SSSE3:       0
+SSE4:       9
+AVX:       0
+
+Working on /usr/bin/db_checkpoint
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/jinfo
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/pmset
+SSE:      37
+SSE2:     118
+SSE3:       2
+SSSE3:       0
+SSE4:       4
+AVX:       0
+
+Working on /usr/bin/drutil
+SSE:     591
+SSE2:     268
+SSE3:       0
+SSSE3:       0
+SSE4:      62
+AVX:       0
+
+Working on /usr/bin/xmlcatalog
+SSE:      11
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jstatd
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lpr
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/snmptest
+SSE:       2
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/openssl
+SSE:     248
+SSE2:     219
+SSE3:       3
+SSSE3:       2
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/flex
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/hostinfo
+SSE:       3
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jcontrol
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lpstat
+SSE:       0
+SSE2:       1
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/SetFile
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uptime
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/fdesetup
+SSE:     202
+SSE2:      62
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/schemagen
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/false
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/avmediainfo
+SSE:     183
+SSE2:      39
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zegrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/memory_pressure
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uncompress
+SSE:      36
+SSE2:       8
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nmedit
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bison
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jdeps
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/productbuild
+SSE:     218
+SSE2:       1
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/zipinfo
+SSE:      27
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/layerutil
+SSE:    2911
+SSE2:    2643
+SSE3:      55
+SSSE3:       6
+SSE4:     128
+AVX:       0
+
+Working on /usr/bin/login
+SSE:       2
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/diffstat
+SSE:      39
+SSE2:      22
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cpuctl
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/which
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_deadlock
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/finger
+SSE:      12
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/mig
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/sntp
+SSE:     135
+SSE2:      30
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/GetFileInfo
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/open
+SSE:     104
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ruby
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/stringdups
+SSE:      51
+SSE2:      32
+SSE3:       0
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/git
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/tr
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/banner
+SSE:      18
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/leave
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jconsole
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/paste
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bzip2
+SSE:       8
+SSE2:      25
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uucp
+SSE:     108
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/passwd
+SSE:      24
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/uuidgen
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/install_name_tool
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/cmpdylib
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/makeinfo
+SSE:     145
+SSE2:       7
+SSE3:       0
+SSSE3:       1
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/zfgrep
+SSE:      14
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/aea
+SSE:      47
+SSE2:      16
+SSE3:       1
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/look
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/col
+SSE:       3
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/dscacheutil
+SSE:      40
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/syscapturediags
+SSE:     344
+SSE2:      28
+SSE3:       1
+SSSE3:       0
+SSE4:       2
+AVX:       0
+
+Working on /usr/bin/malloc_history
+SSE:      26
+SSE2:       2
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_recover
+SSE:    2198
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/cpio
+SSE:      16
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/nohup
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/bspatch
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gatherheaderdoc
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/kcc
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jpackage
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/avmetareadwrite
+SSE:      39
+SSE2:       3
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/opendiff
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/talk
+SSE:     204
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/ppdi
+SSE:     343
+SSE2:      72
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/expect
+SSE:       0
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/jimage
+SSE:      15
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/lockstat
+SSE:      42
+SSE2:      62
+SSE3:       6
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/install-info
+SSE:      14
+SSE2:       1
+SSE3:       0
+SSSE3:       1
+SSE4:       1
+AVX:       0
+
+Working on /usr/bin/xattr
+SSE:      31
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/w
+SSE:      10
+SSE2:       0
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/gunzip
+SSE:     110
+SSE2:       5
+SSE3:       0
+SSSE3:       0
+SSE4:       0
+AVX:       0
+
+Working on /usr/bin/db_dump
+SSE:    2208
+SSE2:     467
+SSE3:       2
+SSSE3:       8
+SSE4:      41
+AVX:       0
+
+Working on /usr/bin/kmutil
+SSE:   19906
+SSE2:     350
+SSE3:       0
+SSSE3:       0
+SSE4:     164
+AVX:       0
