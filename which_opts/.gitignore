@@ -1,2 +1,3 @@
 python/venv
 python/.pyre
+python/data/database.db

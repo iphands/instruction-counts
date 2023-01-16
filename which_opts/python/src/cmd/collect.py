@@ -14,6 +14,8 @@ from typing import Dict, List
 from dataclasses import dataclass
 from datetime import datetime
 
+import constants as const
+
 @dataclass
 class BinData:
     path: str
@@ -65,8 +67,7 @@ def collect(name: str) -> None:
     name = make_name(name)
     assert(name is not None)
 
-    output_dir = './raw_data'
-    output_file = f'{output_dir}/{name}'
+    output_file = f'{const.DATA_DIR}/{name}.json_list'
 
     log.info(f'Collecting data from /usr/bin, writing to: {output_file}')
     bins = get_bins('/usr/bin')
@@ -78,15 +79,21 @@ def collect(name: str) -> None:
     pool = mp.Pool(threads)
     results = pool.imap_unordered(get_instructions, bins)
 
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    if not os.path.exists(const.DATA_DIR):
+        os.makedirs(const.DATA_DIR)
 
     with open(output_file, 'w', encoding='utf-8') as f:
+        json.dump({
+            "name": name
+        }, f)
+        f.write('\n')
+
         for i in results:
-            json.dump({
+            s = json.dump({
                 "path": i.path,
                 "counts": i.counts,
             }, f)
+            f.write('\n')
 
     pool.close()
     log.info('Collection complete')
@@ -98,8 +105,9 @@ def make_name(name: str) -> str:
     if hostname == 'localhost':
         raise Exception("System hostname must not be localhost")
 
-    date = datetime.today().strftime('%Y-%m-%d')
+    # date = datetime.today().strftime('%Y-%m-%d')
     dist = distro.id()
 
-    full_name = f'{dist}.{hostname}.{name}.{date}.json_list'
+    # full_name = f'{dist}.{hostname}.{name}.{date}.json_list'
+    full_name = f'{dist}.{hostname}.{name}'
     return full_name
