@@ -16,6 +16,8 @@ from datetime import datetime
 
 from cmd.process import process
 from cmd.collect import collect
+from cmd.ingest import ingest_refs
+from cmd.query import query
 
 @click.group()
 def cli() -> None:
@@ -25,4 +27,6 @@ if __name__ == "__main__":
     log.basicConfig(level=log.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
     cli.add_command(collect)
     cli.add_command(process)
+    cli.add_command(ingest_refs)
+    cli.add_command(query)
     cli()
