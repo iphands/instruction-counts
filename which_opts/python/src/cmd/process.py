@@ -42,14 +42,16 @@ def do_file(path: str, cur: sqlite3.Cursor) -> None:
         assert(data['name'])
 
         cur.execute('INSERT OR IGNORE INTO profile(name) VALUES(?)', (data['name'],))
-        prof_id = cur.lastrowid
+        cur.execute('SELECT * FROM profile WHERE name = ?', (data['name'],))
+        prof_id = cur.fetchone()[0]
 
         for line in f:
             data = json.loads(line)
             cur.execute('INSERT OR IGNORE INTO bin(name) VALUES(?)', (data['path'],))
-            bin_id = cur.lastrowid
+            cur.execute('SELECT * FROM bin WHERE name = ?', (data['path'],))
+            bin_id = cur.fetchone()[0]
             for k, v in data['counts'].items():
-                sql = '''INSERT OR IGNORE INTO op_count(bin_id, prof_id, name, count)
+                sql = '''INSERT INTO op_count(bin_id, prof_id, name, count)
                 VALUES(?, ?, ?, ?)
                 '''
                 cur.execute(sql, (bin_id, prof_id, k, v))
