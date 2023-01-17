@@ -30,7 +30,7 @@ def do_x86_64(filepath: str, cur: sqlite3.Cursor) -> None:
         for name, meta  in data['instructions'].items():
             family = get_family(meta)
             args = (name.lower(), family, 'x86_64')
-            cur.execute('INSERT INTO instr(opcode, family, arch) VALUES(?, ?, ?)', args)
+            cur.execute('INSERT OR IGNORE INTO instr(opcode, family, arch) VALUES(?, ?, ?)', args)
 
 def do_ingest(filepath: str, cur: sqlite3.Cursor) -> None:
     if 'x86_64' in filepath:
@@ -44,7 +44,7 @@ def prep_db() -> tuple[sqlite3.Connection, sqlite3.Cursor]:
     cur = con.cursor()
     cur.execute('''CREATE TABLE IF NOT EXISTS instr(
     id INTEGER PRIMARY KEY,
-    opcode TEXT,
+    opcode TEXT NOT NULL UNIQUE,
     family TEXT,
     arch TEXT
     )

@@ -14,7 +14,7 @@ collect:
 
 .PHONY: ingest
 ingest: get_mappings
-	sqlite3 data/database.db 'DROP TABLE instr;' && \
+	sqlite3 data/database.db 'DROP TABLE instr;' ; \
 	pyre check && time python src/main.py ingest-refs
 
 .PHONY: process

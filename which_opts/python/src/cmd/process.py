@@ -10,13 +10,13 @@ def prep_db() -> tuple[sqlite3.Connection, sqlite3.Cursor]:
     cur = con.cursor()
     cur.execute('''CREATE TABLE IF NOT EXISTS profile(
     id INTEGER PRIMARY KEY,
-    name TEXT
+    name TEXT NOT NULL UNIQUE
     )
     ''')
 
     cur.execute('''CREATE TABLE IF NOT EXISTS bin(
     id INTEGER PRIMARY KEY,
-    name TEXT
+    name TEXT NOT NULL UNIQUE
     )
     ''')
 
@@ -28,6 +28,7 @@ def prep_db() -> tuple[sqlite3.Connection, sqlite3.Cursor]:
     count INTEGER,
     FOREIGN KEY(bin_id) REFERENCES bin
     FOREIGN KEY(prof_id) REFERENCES profile
+    UNIQUE(name, bin_id, prof_id)
     )
     ''')
 
@@ -40,15 +41,15 @@ def do_file(path: str, cur: sqlite3.Cursor) -> None:
         data = json.loads(first_line)
         assert(data['name'])
 
-        cur.execute('INSERT INTO profile(name) VALUES(?)', (data['name'],))
+        cur.execute('INSERT OR IGNORE INTO profile(name) VALUES(?)', (data['name'],))
         prof_id = cur.lastrowid
 
         for line in f:
             data = json.loads(line)
-            cur.execute('INSERT INTO bin(name) VALUES(?)', (data['path'],))
+            cur.execute('INSERT OR IGNORE INTO bin(name) VALUES(?)', (data['path'],))
             bin_id = cur.lastrowid
             for k, v in data['counts'].items():
-                sql = '''INSERT INTO op_count(bin_id, prof_id, name, count)
+                sql = '''INSERT OR IGNORE INTO op_count(bin_id, prof_id, name, count)
                 VALUES(?, ?, ?, ?)
                 '''
                 cur.execute(sql, (bin_id, prof_id, k, v))
