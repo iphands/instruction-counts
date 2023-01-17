@@ -50,6 +50,7 @@ def query(q: str, form: str) -> None:
 
 
     for k, v in output_dict.items():
+        print()
         print(f'''{v["profile"]} {v["arch"]}
   {v["bin"]}''')
         family_counts = {}
@@ -63,5 +64,10 @@ def query(q: str, form: str) -> None:
 
             family_counts[i['family']] += i['count']
 
-        for k, v in family_counts.items():
-            print(f'    {k}: {v}')
+        total = 0
+        for i in const.FAMILY_ALLOW:
+            if i not in family_counts:
+                continue
+            print(f'    {i}: {family_counts[i]}')
+            total += family_counts[i]
+        print(f'    total: {total}')
