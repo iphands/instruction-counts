@@ -3,10 +3,10 @@
 ## What is this
 
 Some simple tooling that can be used to count the number of times various
-instructions or instruciton "families" occur in a compiled binary.
+instructions or instruction "families" occur in a compiled binary.
 
-The original usecase was to count/verify how many SIMD instructions are present
-in bins from various linux distros, gcc versions, bins built with different
+The original use-case was to count/verify how many SIMD instructions are present
+in bins from various Linux distros, gcc versions, bins built with different
 cflags.
 
 ## Setup
