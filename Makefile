@@ -23,8 +23,11 @@ process:
 
 data/database.db: ingest process
 
+venv/bin/activate:
+	python3 -mvenv venv
+
 .PHONY: reset_db
 reset_db:
-	rm data/database.db
+	rm data/database.db || true
 	$(MAKE) data/database.db
 
