@@ -22,19 +22,19 @@ $ source venv/bin/activate
 ### Collect raw stats about bins in /usr/bin
 
 ```
-$ python src/main.py collect --name gcc13
+(venv) $ python src/main.py collect --name gcc13
 ```
 
 ### Fetch mappings files, and (re)build the database
 
 ```
-$ make reset_db
+(venv) $ make reset_db
 ```
 
 ### Query data
 
 ```
-$ python src/main.py query %/htop
+(venv) $ python src/main.py query %/htop
 
 fedora37.station-lan x86_64
   /usr/bin/htop
