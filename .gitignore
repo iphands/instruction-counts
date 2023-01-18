@@ -1,0 +1,7 @@
+venv
+.pyre
+data/database.db
+data/ref
+__pycache__/
+*.py[cod]
+*$py.class

@@ -1,7 +1,0 @@
-python/venv
-python/.pyre
-python/data/database.db
-python/data/ref
-__pycache__/
-*.py[cod]
-*$py.class
