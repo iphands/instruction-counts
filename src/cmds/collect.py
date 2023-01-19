@@ -26,6 +26,10 @@ def get_bins(base: str) -> List[str]:
     ret = []
     for i in os.listdir(base):
         file_path = f'{base}/{i}'
+        original_file_path = file_path
+
+        if os.path.islink(file_path):
+            file_path = f'{base}/{os.readlink(file_path)}'
 
         if not os.path.isfile(file_path):
             continue
@@ -34,9 +38,36 @@ def get_bins(base: str) -> List[str]:
 
         mag = magic.from_file(file_path)
         if 'ELF' in mag or 'x86_64 executable' in mag:
-            ret.append(file_path)
-            # print(file_path'{file_path}: {m}')
+            ret.append(original_file_path)
+
     return ret
+
+def find_instr_position(binpath: str) -> int:
+    count = 0
+    with subprocess.Popen(['objdump','-d', binpath], stdout=subprocess.PIPE) as proc:
+        stdout = proc.stdout
+        assert stdout is not None
+        instr_list = [ 'mov', 'jmp', 'int' ]
+        for line in io.TextIOWrapper(stdout, encoding='utf-8', errors='ignore'):
+            instr = None
+            count += 1
+            if count < 8:
+                continue
+
+            for i in instr_list:
+                if i in line:
+                    instr = i
+                    break
+
+            if instr is None:
+                continue
+
+            for i, token in enumerate(line.split('\t')):
+                if token.startswith(instr):
+                    # print(f'Found in: {count}')
+                    return i
+
+    raise Exception(f'Could not determine instruction location for {binpath}')
 
 def get_instructions(binpath: str) -> BinData:
     with subprocess.Popen(['objdump','-d', binpath], stdout=subprocess.PIPE) as proc:
@@ -45,13 +76,17 @@ def get_instructions(binpath: str) -> BinData:
         stdout = proc.stdout
         assert stdout is not None
 
+        instr_pos = find_instr_position(binpath)
+
         for line in io.TextIOWrapper(stdout, encoding='utf-8', errors='ignore'):
             line_parts = line.split('\t')
             line_parts_len = len(line_parts)
+
             if line_parts_len >= 3:
-                instr = line_parts[2]
+                instr = line_parts[instr_pos]
                 instr = instr.split(' ')[0]
                 instr = instr.strip()
+
                 if INSTR_PATTERN.match(instr) is None:
                     continue
                 if instr not in ret:
@@ -63,15 +98,19 @@ def get_instructions(binpath: str) -> BinData:
         return BinData(binpath, ret)
 
 @click.command()
-@click.option('-n', '--name', 'name', required=True)
-def collect(name: str) -> None:
-    name = make_name(name)
+@click.option('-f', '--force-name', 'force_name', required=False)
+def collect(force_name: str) -> None:
+    name = make_name()
+    if force_name:
+        name = force_name
     assert name is not None
 
     output_file = f'{const.DATA_DIR}/{name}.json_list'
 
-    log.info('Collecting data from /usr/bin, writing to: %s', output_file)
+    log.info('Collecting data, writing to: %s', output_file)
     bins = get_bins('/usr/bin')
+    bins.extend(get_bins('/usr/local/bin'))
+
     cpu_count = mp.cpu_count()
     threads = cpu_count
     if cpu_count > 4:
@@ -98,7 +137,7 @@ def collect(name: str) -> None:
 
     log.info('Collection complete')
 
-def make_name(name: str) -> str:
+def make_name() -> str:
     hostname = socket.gethostname()
     if hostname == '':
         raise Exception('System hostname must not be empty string')
@@ -109,5 +148,5 @@ def make_name(name: str) -> str:
     dist = distro.id()
 
     # full_name = f'{dist}.{hostname}.{name}.{date}.json_list'
-    full_name = f'{dist}.{hostname}.{name}'
+    full_name = f'{dist}.{hostname}'
     return full_name
