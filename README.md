@@ -19,10 +19,10 @@ $ source venv/bin/activate
 (venv) $ pip install -t requirements.txt
 ```
 
-### Collect raw stats about bins in /usr/bin
+### Collect raw stats about bins in /usr/bin, /usr/local/bin
 
 ```
-(venv) $ python src/main.py collect --name gcc13
+(venv) $ python src/main.py collect
 ```
 
 ### Fetch mappings files, and (re)build the database
@@ -36,13 +36,6 @@ $ source venv/bin/activate
 ```
 (venv) $ python src/main.py query %/htop
 
-fedora37.station-lan x86_64
-  /usr/bin/htop
-    mmx: 577
-    sse: 407
-    sse2: 1010
-    total: 1994
-
 clear-linux-os.noir x86_64
   /usr/bin/htop
     mmx: 1367
@@ -52,6 +45,23 @@ clear-linux-os.noir x86_64
     ssse3: 12
     sse4.1: 75
     total: 5244
+
+fedora37.station-lan x86_64
+  /usr/bin/htop
+    mmx: 577
+    sse: 407
+    sse2: 1010
+    total: 1994
+
+darwin.air.lan x86_64
+  /usr/local/bin/htop
+    mmx: 6576
+    sse: 278
+    sse2: 482
+    sse3: 16
+    sse4.1: 14
+    sse4.2: 2
+    total: 7368
 
 gentoo.cosmo.gcc12 x86_64
   /usr/bin/htop
