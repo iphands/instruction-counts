@@ -25,7 +25,7 @@ def get_family(meta: Dict[str, Any]) -> str:
     return ''
 
 def do_x86_64(filepath: str, cur: sqlite3.Cursor) -> None:
-    with open(filepath, 'r', encoding='UTF-8') as file_handle:
+    with open(filepath, 'r', encoding='utf-8') as file_handle:
         data = json.loads(file_handle.read())
         for name, meta  in data['instructions'].items():
             family = get_family(meta)

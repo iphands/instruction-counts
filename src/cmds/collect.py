@@ -2,6 +2,7 @@ import socket
 import io
 import os
 import subprocess
+import re
 import json
 import logging as log
 import multiprocessing as mp
@@ -19,6 +20,8 @@ class BinData:
     path: str
     counts: Dict[str, int]
 
+INSTR_PATTERN: re.Pattern = re.compile('^[a-z]{2,}[a-z0-9]*$')
+
 def get_bins(base: str) -> List[str]:
     ret = []
     for i in os.listdir(base):
@@ -30,7 +33,7 @@ def get_bins(base: str) -> List[str]:
             continue
 
         mag = magic.from_file(file_path)
-        if 'ELF' in mag:
+        if 'ELF' in mag or 'x86_64 executable' in mag:
             ret.append(file_path)
             # print(file_path'{file_path}: {m}')
     return ret
@@ -42,21 +45,21 @@ def get_instructions(binpath: str) -> BinData:
         stdout = proc.stdout
         assert stdout is not None
 
-        for line in io.TextIOWrapper(stdout, encoding="utf-8"):
+        for line in io.TextIOWrapper(stdout, encoding='utf-8', errors='ignore'):
             line_parts = line.split('\t')
             line_parts_len = len(line_parts)
-            if line_parts_len == 3:
+            if line_parts_len >= 3:
                 instr = line_parts[2]
                 instr = instr.split(' ')[0]
                 instr = instr.strip()
-                # if instr == '':
-                #     print('WARNING:')
-                #     print(line_parts)
+                if INSTR_PATTERN.match(instr) is None:
+                    continue
                 if instr not in ret:
                     ret[instr] = 1
                     continue
                 ret[instr] = ret[instr] + 1
                 continue
+
         return BinData(binpath, ret)
 
 @click.command()
