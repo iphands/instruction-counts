@@ -53,7 +53,7 @@ def do_file(path: str, cur: sqlite3.Cursor) -> None:
             cur.execute('SELECT * FROM bin WHERE name = ?', (data['path'],))
             bin_id = cur.fetchone()[0]
             for k, val in data['counts'].items():
-                sql = '''INSERT INTO op_count(bin_id, prof_id, name, count)
+                sql = '''INSERT OR IGNORE INTO op_count(bin_id, prof_id, name, count)
                 VALUES(?, ?, ?, ?)
                 '''
                 cur.execute(sql, (bin_id, prof_id, k, val))
