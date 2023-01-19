@@ -22,17 +22,29 @@ class BinData:
 
 INSTR_PATTERN: re.Pattern = re.compile('^[a-z]{2,}[a-z0-9]*$')
 
+
+def get_real_path(base: str, file_path: str) -> str:
+    if not os.path.islink(file_path):
+        return file_path
+    if file_path.startswith('.'):
+        file_path = f'{base}/{os.readlink(file_path)}'
+
+    file_path = os.path.realpath(file_path)
+    base = os.path.dirname(file_path)
+    return get_real_path(base, file_path)
+
+
 def get_bins(base: str) -> List[str]:
     ret = []
     for i in os.listdir(base):
         file_path = f'{base}/{i}'
         original_file_path = file_path
 
-        if os.path.islink(file_path):
-            file_path = f'{base}/{os.readlink(file_path)}'
-
         if not os.path.isfile(file_path):
             continue
+
+        file_path = get_real_path(base, file_path)
+
         if not os.access(file_path, os.R_OK):
             continue
 
@@ -106,6 +118,8 @@ def collect(force_name: str) -> None:
     log.info('Collecting data, writing to: %s', output_file)
     bins = get_bins('/usr/bin')
     bins.extend(get_bins('/usr/local/bin'))
+
+    assert '/usr/bin/gcc' in bins
 
     cpu_count = mp.cpu_count()
     threads = cpu_count
