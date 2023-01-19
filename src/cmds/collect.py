@@ -43,16 +43,13 @@ def get_bins(base: str) -> List[str]:
     return ret
 
 def find_instr_position(binpath: str) -> int:
-    count = 0
     with subprocess.Popen(['objdump','-d', binpath], stdout=subprocess.PIPE) as proc:
         stdout = proc.stdout
         assert stdout is not None
-        instr_list = [ 'mov', 'jmp', 'int' ]
+
+        instr_list = [ 'mov', 'jmp', 'push', 'pop', 'int', 'ret' ]
         for line in io.TextIOWrapper(stdout, encoding='utf-8', errors='ignore'):
             instr = None
-            count += 1
-            if count < 8:
-                continue
 
             for i in instr_list:
                 if i in line:
@@ -64,7 +61,6 @@ def find_instr_position(binpath: str) -> int:
 
             for i, token in enumerate(line.split('\t')):
                 if token.startswith(instr):
-                    # print(f'Found in: {count}')
                     return i
 
     raise Exception(f'Could not determine instruction location for {binpath}')
