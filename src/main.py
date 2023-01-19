@@ -1,23 +1,11 @@
-import socket
-import click
-import distro
-import io
-import os
-import magic
-import subprocess
-import sys
-import json
 import logging as log
-import multiprocessing as mp
 
-from typing import Dict, List
-from dataclasses import dataclass
-from datetime import datetime
+import click
 
-from cmd.process import process
-from cmd.collect import collect
-from cmd.ingest import ingest_refs
-from cmd.query import query
+from cmds.process import process
+from cmds.collect import collect
+from cmds.ingest import ingest_refs
+from cmds.query import query
 
 @click.group()
 def cli() -> None:

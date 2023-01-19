@@ -1,13 +1,14 @@
-import click
 import sqlite3
 import json
+
+import click
 
 import constants as const
 
 @click.command()
-@click.argument('q')
+@click.argument('query_str')
 @click.option('-f', '--format', 'form')
-def query(q: str, form: str) -> None:
+def query(query_str: str, form: str) -> None:
     con = sqlite3.connect(const.DATABASE)
     cur = con.cursor()
 
@@ -24,7 +25,7 @@ def query(q: str, form: str) -> None:
 
     output_dict = {}
 
-    for row in cur.execute(sql, (q,)):
+    for row in cur.execute(sql, (query_str,)):
         prof, binp, opcode, family, arch, count = row
         key = f'{prof} {binp}'
         if key not in output_dict:
@@ -49,12 +50,12 @@ def query(q: str, form: str) -> None:
         return
 
 
-    for k, v in output_dict.items():
+    for _k, val in output_dict.items():
         print()
-        print(f'''{v["profile"]} {v["arch"]}
-  {v["bin"]}''')
+        print(f'''{val["profile"]} {val["arch"]}
+  {val["bin"]}''')
         family_counts = {}
-        for i in v["instructions"]:
+        for i in val["instructions"]:
             if i['family'] == '':
                 continue
 

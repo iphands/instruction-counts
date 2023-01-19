@@ -1,0 +1,7 @@
+[MAIN]
+init-hook='import sys; sys.path.append("./src")'
+disable=
+    missing-module-docstring,
+    missing-function-docstring,
+    missing-class-docstring,
+    too-many-locals,

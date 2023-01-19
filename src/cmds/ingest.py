@@ -1,10 +1,10 @@
-import click
-import os
 import json
 import sqlite3
-import constants as const
+from typing import Any, Dict
 
-from typing import Any, Dict, List
+import click
+
+import constants as const
 
 def get_family(meta: Dict[str, Any]) -> str:
     for form in meta['forms']:
@@ -25,8 +25,8 @@ def get_family(meta: Dict[str, Any]) -> str:
     return ''
 
 def do_x86_64(filepath: str, cur: sqlite3.Cursor) -> None:
-    with open(filepath, 'r') as f:
-        data = json.loads(f.read())
+    with open(filepath, 'r', encoding='UTF-8') as file_handle:
+        data = json.loads(file_handle.read())
         for name, meta  in data['instructions'].items():
             family = get_family(meta)
             args = (name.lower(), family, 'x86_64')

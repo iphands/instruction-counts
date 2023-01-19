@@ -10,16 +10,16 @@ get_mappings: data/ref/x86_64.json
 
 .PHONY: collect
 collect:
-	pyre check && time python src/main.py collect --name gcc12
+	$(MAKE) lint && time python src/main.py collect --name gcc12
 
 .PHONY: ingest
 ingest: get_mappings
 	sqlite3 data/database.db 'DROP TABLE instr;' ; \
-	pyre check && time python src/main.py ingest-refs
+	$(MAKE) lint && time python src/main.py ingest-refs
 
 .PHONY: process
 process:
-	pyre check && time python src/main.py process
+	$(MAKE) lint && time python src/main.py process
 
 data/database.db: ingest process
 
@@ -31,3 +31,7 @@ reset_db:
 	rm data/database.db || true
 	$(MAKE) data/database.db
 
+.PHONY: lint
+lint:
+	pyre check
+	pylint ./src

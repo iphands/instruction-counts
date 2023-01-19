@@ -1,8 +1,10 @@
-import click
 import os
 import logging as log
 import sqlite3
 import json
+
+import click
+
 import constants as const
 
 def prep_db() -> tuple[sqlite3.Connection, sqlite3.Cursor]:
@@ -35,26 +37,26 @@ def prep_db() -> tuple[sqlite3.Connection, sqlite3.Cursor]:
     return con, cur
 
 def do_file(path: str, cur: sqlite3.Cursor) -> None:
-    log.info(f'Processing file: {path}')
-    with open(path, 'rb') as f:
-        first_line = f.readline()
+    log.info('Processing file: %s', path)
+    with open(path, 'rb') as file_handle:
+        first_line = file_handle.readline()
         data = json.loads(first_line)
-        assert(data['name'])
+        assert data['name']
 
         cur.execute('INSERT OR IGNORE INTO profile(name) VALUES(?)', (data['name'],))
         cur.execute('SELECT * FROM profile WHERE name = ?', (data['name'],))
         prof_id = cur.fetchone()[0]
 
-        for line in f:
+        for line in file_handle:
             data = json.loads(line)
             cur.execute('INSERT OR IGNORE INTO bin(name) VALUES(?)', (data['path'],))
             cur.execute('SELECT * FROM bin WHERE name = ?', (data['path'],))
             bin_id = cur.fetchone()[0]
-            for k, v in data['counts'].items():
+            for k, val in data['counts'].items():
                 sql = '''INSERT INTO op_count(bin_id, prof_id, name, count)
                 VALUES(?, ?, ?, ?)
                 '''
-                cur.execute(sql, (bin_id, prof_id, k, v))
+                cur.execute(sql, (bin_id, prof_id, k, val))
 
 @click.command()
 def process() -> None:
