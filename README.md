@@ -73,6 +73,8 @@ gentoo.cosmo.gcc12 x86_64
     avx512: 679
     total: 1735
 ```
+
+
 ### Query data with host filter
 
 ```
@@ -123,4 +125,36 @@ darwin.air.lan x86_64
     sse: 787
     sse2: 286
 ...
+```
+
+### Or use the dabase directly!
+
+```
+$ sqlite3 data/database.db '.tables'
+bin       instr     op_count  profile
+
+$ sqlite3 data/database.db '.schema instr'
+CREATE TABLE instr(
+    id INTEGER PRIMARY KEY,
+    opcode TEXT NOT NULL UNIQUE,
+    family TEXT,
+    arch TEXT
+    );
+
+$ sqlite3 data/database.db 'SELECT DISTINCT(family) FROM instr'
+
+sse2
+sse
+sse3
+sse4.1
+sse4.2
+mmx
+sse4a
+avx512
+mmx+
+ssse3
+3dnow!
+3dnow!+
+avx
+avx2
 ```
