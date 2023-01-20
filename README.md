@@ -31,7 +31,9 @@ $ source venv/bin/activate
 (venv) $ make reset_db
 ```
 
-### Query data
+## Usage
+
+### Query data by package
 
 ```
 (venv) $ python src/main.py query %/htop
@@ -70,4 +72,55 @@ gentoo.cosmo.gcc12 x86_64
     avx2: 11
     avx512: 679
     total: 1735
+```
+### Query data with host filter
+
+```
+# Get all top from a host like gentoo%
+$ python src/main.py query --host gentoo% %top%
+
+gentoo.cosmo.gcc12 x86_64
+  /usr/bin/slabtop
+    mmx: 7
+    avx: 38
+    avx512: 79
+    total: 124
+
+gentoo.cosmo.gcc12 x86_64
+  /usr/bin/top
+    mmx: 16
+    avx: 267
+    avx2: 8
+    avx512: 301
+    total: 592
+...
+
+# Get all packages from a host like darwin%
+$ python src/main.py query --host darwin% %
+
+darwin.air.lan x86_64
+  /usr/bin/grops
+    mmx: 4243
+    sse: 201
+    sse2: 272
+    sse3: 4
+    ssse3: 1
+    sse4.1: 12
+    total: 4733
+
+darwin.air.lan x86_64
+  /usr/bin/pic
+    mmx: 4931
+    sse: 590
+    sse2: 3406
+    sse3: 36
+    sse4.1: 7
+    total: 8970
+
+darwin.air.lan x86_64
+  /usr/bin/troff
+    mmx: 15001
+    sse: 787
+    sse2: 286
+...
 ```

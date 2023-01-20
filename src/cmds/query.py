@@ -1,19 +1,37 @@
 import sqlite3
 import json
+from dataclasses import dataclass
 
 import click
 
 import constants as const
 
+@dataclass
+class Options():
+    host: str
+    package: str
+    form: str
+
 @click.command()
 @click.argument('query_str')
 @click.option('-f', '--format', 'form')
-def query(query_str: str, form: str) -> None:
+@click.option('-h', '--host', 'host')
+def query(query_str: str, host: str, form: str) -> None:
     con = sqlite3.connect(const.DATABASE)
     cur = con.cursor()
+    opts = Options(host=host, package=query_str, form=form)
+    package(cur, opts)
+    cur.close()
+    con.close()
 
-    # SELECT profile.name, bin.name, op_count.name, op_count.count
-    sql = """
+def package(cur: sqlite3.Cursor, opts: Options) -> None:
+    host_predicate = ""
+    values = (opts.package,)
+    if opts.host:
+        host_predicate = "AND profile.name LIKE ?"
+        values = (opts.package, opts.host)
+
+    sql = f"""
     SELECT DISTINCT profile.name, bin.name, op_count.name, instr.family, instr.arch, op_count.count
     FROM bin
     INNER JOIN op_count ON bin.id = op_count.bin_id
@@ -21,11 +39,12 @@ def query(query_str: str, form: str) -> None:
     INNER JOIN instr ON op_count.name = instr.opcode
     WHERE bin.name LIKE ?
     AND instr.family != ''
+    {host_predicate}
     """
 
     output_dict = {}
 
-    for row in cur.execute(sql, (query_str,)):
+    for row in cur.execute(sql, values):
         prof, binp, opcode, family, arch, count = row
         key = f'{prof} {binp}'
         if key not in output_dict:
@@ -43,9 +62,8 @@ def query(query_str: str, form: str) -> None:
         })
 
     cur.close()
-    con.close()
 
-    if form == 'json':
+    if opts.form == 'json':
         print(json.dumps(output_dict))
         return
 
