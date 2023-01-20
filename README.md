@@ -127,7 +127,7 @@ darwin.air.lan x86_64
 ...
 ```
 
-### Or use the dabase directly!
+### Or use the database directly!
 
 ```
 $ sqlite3 data/database.db '.tables'
