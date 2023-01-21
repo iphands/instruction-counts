@@ -9,17 +9,6 @@ The original use-case was to count/verify how many SIMD instructions are present
 in bins from various Linux distros, gcc versions, bins built with different
 cflags.
 
-## Note
-
-Right now there is a misattribution of instructions families
-in cases where the same instruction mnemonic is used
-for two instruction families. There are quite a few
-AVX and AVX512 instructions that have this overlap.
-
-See issue #1.
-
-I'll resolve this asap.
-
 ## Setup
 
 ### Prep the python env
