@@ -36,7 +36,7 @@ def package(cur: sqlite3.Cursor, opts: Options) -> None:
     FROM bin
     INNER JOIN op_count ON bin.id = op_count.bin_id
     INNER JOIN profile ON op_count.prof_id = profile.id
-    INNER JOIN instr ON op_count.name = instr.opcode
+    INNER JOIN instr ON op_count.name = instr.opcode AND (op_count.mod = instr.family OR (op_count.mod = '' AND instr.family != 'avx512'))
     WHERE bin.name LIKE ?
     AND instr.family != ''
     {host_predicate}

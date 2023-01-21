@@ -27,10 +27,11 @@ def prep_db() -> tuple[sqlite3.Connection, sqlite3.Cursor]:
     bin_id INTEGER,
     prof_id INTEGER,
     name TEXT,
+    mod TEXT,
     count INTEGER,
     FOREIGN KEY(bin_id) REFERENCES bin
     FOREIGN KEY(prof_id) REFERENCES profile
-    UNIQUE(name, bin_id, prof_id)
+    UNIQUE(name, bin_id, mod, prof_id)
     )
     ''')
 
@@ -53,10 +54,17 @@ def do_file(path: str, cur: sqlite3.Cursor) -> None:
             cur.execute('SELECT * FROM bin WHERE name = ?', (data['path'],))
             bin_id = cur.fetchone()[0]
             for k, val in data['counts'].items():
-                sql = '''INSERT OR IGNORE INTO op_count(bin_id, prof_id, name, count)
-                VALUES(?, ?, ?, ?)
-                '''
-                cur.execute(sql, (bin_id, prof_id, k, val))
+                ## TODO AVX512 hack
+                if k.endswith('avx512'):
+                    k = k.split('-')[0]
+                    sql = '''INSERT OR IGNORE INTO op_count(bin_id, prof_id, name, mod, count)
+                    VALUES(?, ?, ?, ?, ?)'''
+                    cur.execute(sql, (bin_id, prof_id, k, 'avx512', val))
+                    continue
+
+                sql = '''INSERT OR IGNORE INTO op_count(bin_id, prof_id, name, mod, count)
+                VALUES(?, ?, ?, ?, ?)'''
+                cur.execute(sql, (bin_id, prof_id, k, '', val))
 
 @click.command()
 def process() -> None:

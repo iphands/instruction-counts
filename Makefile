@@ -31,6 +31,10 @@ reset_db:
 	rm data/database.db || true
 	$(MAKE) data/database.db
 
+.PHONY: test
+test:
+	python -m unittest discover src/
+
 .PHONY: lint
 lint:
 	pyre check

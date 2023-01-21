@@ -1,0 +1,933 @@
+{
+  "summary": "Move",
+  "forms": [
+    {
+      "operands": [
+        {
+          "type": "r8",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm8"
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "C6"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 1,
+            "value": "#1"
+          }
+        },
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "B0",
+            "addend": "#0"
+          },
+          "immediate": {
+            "size": 1,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r8",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r8",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#1",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "88"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        },
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#0",
+            "B": "#1"
+          },
+          "opcode": {
+            "byte": "8A"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r8",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "m8",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#0",
+            "B": "#1",
+            "X": "#1"
+          },
+          "opcode": {
+            "byte": "8A"
+          },
+          "ModRM": {
+            "mode": "#1",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r16",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm16"
+        }
+      ],
+      "encodings": [
+        {
+          "prefix": {
+            "mandatory": false,
+            "byte": "66"
+          },
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "C7"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 2,
+            "value": "#1"
+          }
+        },
+        {
+          "prefix": {
+            "mandatory": false,
+            "byte": "66"
+          },
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "B8",
+            "addend": "#0"
+          },
+          "immediate": {
+            "size": 2,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r16",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r16",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "prefix": {
+            "mandatory": false,
+            "byte": "66"
+          },
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#1",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "89"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        },
+        {
+          "prefix": {
+            "mandatory": false,
+            "byte": "66"
+          },
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#0",
+            "B": "#1"
+          },
+          "opcode": {
+            "byte": "8B"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r16",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "m16",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "prefix": {
+            "mandatory": false,
+            "byte": "66"
+          },
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#0",
+            "B": "#1",
+            "X": "#1"
+          },
+          "opcode": {
+            "byte": "8B"
+          },
+          "ModRM": {
+            "mode": "#1",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "eax",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "moffs32"
+        }
+      ],
+      "encodings": [
+        {
+          "opcode": {
+            "byte": "A1"
+          },
+          "data_offset": {
+            "size": 4,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r32",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm32"
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "C7"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 4,
+            "value": "#1"
+          }
+        },
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "B8",
+            "addend": "#0"
+          },
+          "immediate": {
+            "size": 4,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r32",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r32",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#1",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "89"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        },
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#0",
+            "B": "#1"
+          },
+          "opcode": {
+            "byte": "8B"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r32",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "m32",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#0",
+            "B": "#1",
+            "X": "#1"
+          },
+          "opcode": {
+            "byte": "8B"
+          },
+          "ModRM": {
+            "mode": "#1",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "rax",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "moffs64"
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1"
+          },
+          "opcode": {
+            "byte": "A1"
+          },
+          "data_offset": {
+            "size": 8,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r64",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm32",
+          "extended_size": 8
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "C7"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 4,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r64",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm64"
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "B8",
+            "addend": "#0"
+          },
+          "immediate": {
+            "size": 8,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r64",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r64",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1",
+            "R": "#1",
+            "B": "#0"
+          },
+          "opcode": {
+            "byte": "89"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        },
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1",
+            "R": "#0",
+            "B": "#1"
+          },
+          "opcode": {
+            "byte": "8B"
+          },
+          "ModRM": {
+            "mode": "11",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "r64",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "m64",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1",
+            "R": "#0",
+            "B": "#1",
+            "X": "#1"
+          },
+          "opcode": {
+            "byte": "8B"
+          },
+          "ModRM": {
+            "mode": "#1",
+            "rm": "#1",
+            "reg": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m8",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm8"
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "C6"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 1,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m8",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r8",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#1",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "88"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m16",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm16"
+        }
+      ],
+      "encodings": [
+        {
+          "prefix": {
+            "mandatory": false,
+            "byte": "66"
+          },
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "C7"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 2,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m16",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r16",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "prefix": {
+            "mandatory": false,
+            "byte": "66"
+          },
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#1",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "89"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m32",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm32"
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "C7"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 4,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m32",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r32",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": false,
+            "W": "0",
+            "R": "#1",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "89"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m64",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "imm32",
+          "extended_size": 8
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "C7"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "0"
+          },
+          "immediate": {
+            "size": 4,
+            "value": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "m64",
+          "input": false,
+          "output": true
+        },
+        {
+          "type": "r64",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1",
+            "R": "#1",
+            "B": "#0",
+            "X": "#0"
+          },
+          "opcode": {
+            "byte": "89"
+          },
+          "ModRM": {
+            "mode": "#0",
+            "rm": "#0",
+            "reg": "#1"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "moffs32"
+        },
+        {
+          "type": "eax",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "opcode": {
+            "byte": "A3"
+          },
+          "data_offset": {
+            "size": 4,
+            "value": "#0"
+          }
+        }
+      ]
+    },
+    {
+      "operands": [
+        {
+          "type": "moffs64"
+        },
+        {
+          "type": "rax",
+          "input": true,
+          "output": false
+        }
+      ],
+      "encodings": [
+        {
+          "REX": {
+            "mandatory": true,
+            "W": "1"
+          },
+          "opcode": {
+            "byte": "A3"
+          },
+          "data_offset": {
+            "size": 8,
+            "value": "#0"
+          }
+        }
+      ]
+    }
+  ]
+}

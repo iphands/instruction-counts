@@ -21,7 +21,7 @@ class BinData:
     counts: Dict[str, int]
 
 INSTR_PATTERN: re.Pattern = re.compile('^[a-z]{2,}[a-z0-9]*$')
-
+AVX512_PATTERN : re.Pattern = re.compile('xmm1[6-9]|xmm2[0-9]|xmm3[0-2]|ymm1[6-9]|zmm')
 
 def get_real_path(base: str, file_path: str) -> str:
     if not os.path.islink(file_path):
@@ -97,6 +97,11 @@ def get_instructions(binpath: str) -> BinData:
 
                 if INSTR_PATTERN.match(instr) is None:
                     continue
+
+                # TODO AVX512 HACK to diff avx and avx512
+                if avx_reg_check(line):
+                    instr = f'{instr}-avx512'
+
                 if instr not in ret:
                     ret[instr] = 1
                     continue
@@ -104,6 +109,11 @@ def get_instructions(binpath: str) -> BinData:
                 continue
 
         return BinData(binpath, ret)
+
+def avx_reg_check(line: str) -> bool:
+    if AVX512_PATTERN.search(line):
+        return True
+    return False
 
 @click.command()
 @click.option('-f', '--force-name', 'force_name', required=False)
@@ -117,9 +127,11 @@ def collect(force_name: str) -> None:
 
     log.info('Collecting data, writing to: %s', output_file)
     bins = get_bins('/usr/bin')
+    bins.extend(get_bins('/usr/sbin'))
+    bins.extend(get_bins('/usr/local/sbin'))
     bins.extend(get_bins('/usr/local/bin'))
-
-    assert '/usr/bin/gcc' in bins
+    bins.extend(get_bins('/bin'))
+    bins.extend(get_bins('/sbin'))
 
     cpu_count = mp.cpu_count()
     threads = cpu_count
