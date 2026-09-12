@@ -1,10 +1,14 @@
 import sqlite3
 import json
+import re
 from dataclasses import dataclass
+from typing import Tuple, Union
 
 import click
 
 import constants as const
+
+NUM_RE = re.compile(r'(\d+)')
 
 @dataclass
 class Options():
@@ -23,6 +27,20 @@ def query(query_str: str, host: str, form: str) -> None:
     package(cur, opts)
     cur.close()
     con.close()
+
+def natural_key(text: str) -> Tuple[Tuple[int, Union[int, str]], ...]:
+    """Split a name into text/number chunks so 6.19.12 sorts after 6.19.6."""
+    return tuple(
+        (1, int(part)) if part.isdigit() else (0, part)
+        for part in NUM_RE.split(text) if part != ''
+    )
+
+def sort_output(output_dict: dict) -> dict:
+    """Group by profile (A-Z), newest binary first within each profile."""
+    rows = sorted(output_dict.items(),
+                  key=lambda kv: natural_key(kv[1]["bin"]), reverse=True)
+    rows.sort(key=lambda kv: natural_key(kv[1]["profile"]))
+    return dict(rows)
 
 def package(cur: sqlite3.Cursor, opts: Options) -> None:
     host_predicate = ""
@@ -62,6 +80,8 @@ def package(cur: sqlite3.Cursor, opts: Options) -> None:
         })
 
     cur.close()
+
+    output_dict = sort_output(output_dict)
 
     if opts.form == 'json':
         print(json.dumps(output_dict))
