@@ -6,7 +6,7 @@ import re
 import json
 import logging as log
 import multiprocessing as mp
-from typing import Dict, List
+from typing import Dict, Iterable, List, Optional
 from dataclasses import dataclass
 
 import click
@@ -77,7 +77,9 @@ def find_instr_position(binpath: str) -> int:
 
     raise Exception(f'Could not determine instruction location for {binpath}')
 
-def get_instructions(binpath: str) -> BinData:
+def get_instructions(binpath: str, name: Optional[str] = None) -> BinData:
+    """Count instructions in the ELF at binpath. `name` overrides the path
+    recorded in the result (used when binpath is a temporary extracted file)."""
     with subprocess.Popen(['objdump','-d', binpath], stdout=subprocess.PIPE) as proc:
         ret = {}
 
@@ -108,7 +110,7 @@ def get_instructions(binpath: str) -> BinData:
                 ret[instr] = ret[instr] + 1
                 continue
 
-        return BinData(binpath, ret)
+        return BinData(name if name is not None else binpath, ret)
 
 def avx_reg_check(line: str) -> bool:
     if AVX512_PATTERN.search(line):
@@ -133,31 +135,34 @@ def collect(force_name: str) -> None:
     bins.extend(get_bins('/bin'))
     bins.extend(get_bins('/sbin'))
 
-    cpu_count = mp.cpu_count()
-    threads = cpu_count
-    if cpu_count > 4:
-        threads = threads - 1
-
-    with mp.Pool(threads) as pool:
+    with mp.Pool(pool_size()) as pool:
         results = pool.imap_unordered(get_instructions, bins)
+        write_json_list(output_file, name, results)
 
-        if not os.path.exists(const.DATA_DIR):
-            os.makedirs(const.DATA_DIR)
+    log.info('Collection complete')
 
-        with open(output_file, 'w', encoding='utf-8') as file_handle:
+def write_json_list(output_file: str, name: str, results: Iterable[BinData]) -> None:
+    if not os.path.exists(const.DATA_DIR):
+        os.makedirs(const.DATA_DIR)
+
+    with open(output_file, 'w', encoding='utf-8') as file_handle:
+        json.dump({
+            "name": name
+        }, file_handle)
+        file_handle.write('\n')
+
+        for i in results:
             json.dump({
-                "name": name
+                "path": i.path,
+                "counts": i.counts,
             }, file_handle)
             file_handle.write('\n')
 
-            for i in results:
-                json.dump({
-                    "path": i.path,
-                    "counts": i.counts,
-                }, file_handle)
-                file_handle.write('\n')
-
-    log.info('Collection complete')
+def pool_size() -> int:
+    cpu_count = mp.cpu_count()
+    if cpu_count > 4:
+        return cpu_count - 1
+    return cpu_count
 
 def make_name() -> str:
     hostname = socket.gethostname()

@@ -12,6 +12,10 @@ get_mappings: data/ref/x86_64.json
 collect:
 	$(MAKE) lint && time python src/main.py collect --name gcc12
 
+.PHONY: collect_kernels
+collect_kernels:
+	$(MAKE) lint && time python src/main.py collect-kernels
+
 .PHONY: ingest
 ingest: get_mappings
 	sqlite3 data/database.db 'DROP TABLE instr;' ; \

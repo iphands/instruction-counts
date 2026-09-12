@@ -25,6 +25,19 @@ $ source venv/bin/activate
 (venv) $ python src/main.py collect
 ```
 
+### Collect raw stats about the kernel images in /boot
+
+`vmlinuz` images are bzImages: a boot stub followed by a compressed `vmlinux`
+ELF. This mode finds and decompresses that payload (zstd, gzip, xz, bzip2,
+lzma, lzo, lz4), counts its instructions, writes `data/<name>.kernels.json_list`
+and loads it straight into the database. Decompression of zstd/lzo/lz4 uses the
+`zstd`/`lzop`/`lz4` binaries if present.
+
+```
+(venv) $ python src/main.py collect-kernels
+(venv) $ python src/main.py query %vmlinuz%
+```
+
 ### Fetch mappings files, and (re)build the database
 
 ```
